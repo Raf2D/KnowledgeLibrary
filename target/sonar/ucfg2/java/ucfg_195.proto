@@ -1,0 +1,246 @@
+
+4com.lib.entity.FileInfo#toString()Ljava/lang/String;U
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.javaÅ Å("1*ì.
+1U
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.javaÇ	 Ç(ü
+ú
+U
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.javaÇ Ç(%
+%0java.lang.Long"__id*'*%
+com.lib.entity.FileInfo"
+fileId´
+®
+U
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.javaÇ	 Ç(%
+%1java.lang.String"__concat*
+FileInfo [fileId=*
+
+%0java.lang.Longß
+§
+U
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.javaÇ	 Ç(5
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+, fileName=£
+†
+U
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.javaÇ8 Ç(@
+%3java.lang.String"__id*)*'
+com.lib.entity.FileInfo"
+
+fileName∞
+≠
+U
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.javaÇ	 Ç(@
+%4java.lang.String"__concat*
+
+%2java.lang.String*
+
+%3java.lang.Stringß
+§
+U
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.javaÇ	 Ç(P
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+, fileSize=°
+û
+U
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.javaÇS Ç([
+%6java.lang.Long"__id*)*'
+com.lib.entity.FileInfo"
+
+fileSizeÆ
+´
+U
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.javaÇ	 Ç([
+%7java.lang.String"__concat*
+
+%5java.lang.String*
+
+%6java.lang.Long¶
+£
+U
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.javaÇ	 Ç(j
+%8java.lang.String"__concat*
+
+%7java.lang.String*
+
+, fileExt=¢
+ü
+U
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.javaÉ É(
+%9java.lang.String"__id*(*&
+com.lib.entity.FileInfo"	
+fileExt±
+Æ
+U
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.javaÇ	 É(
+%10java.lang.String"__concat*
+
+%8java.lang.String*
+
+%9java.lang.String´
+®
+U
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.javaÇ	 É(
+%11java.lang.String"__concat*
+
+%10java.lang.String*
+, fileUserId=§
+°
+U
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.javaÉ" É(,
+%12java.lang.Long"__id*+*)
+com.lib.entity.FileInfo"
+
+fileUserId±
+Æ
+U
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.javaÇ	 É(,
+%13java.lang.String"__concat*
+
+%11java.lang.String*
+
+%12java.lang.Long©
+¶
+U
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.javaÇ	 É(<
+%14java.lang.String"__concat*
+
+%13java.lang.String*
+, fileUuid=§
+°
+U
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.javaÉ? É(G
+%15java.lang.String"__id*)*'
+com.lib.entity.FileInfo"
+
+fileUuid≥
+∞
+U
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.javaÇ	 É(G
+%16java.lang.String"__concat*
+
+%14java.lang.String*
+
+%15java.lang.String©
+¶
+U
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.javaÇ	 É(W
+%17java.lang.String"__concat*
+
+%16java.lang.String*
+, filePath=§
+°
+U
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.javaÉZ É(b
+%18java.lang.String"__id*)*'
+com.lib.entity.FileInfo"
+
+filePath≥
+∞
+U
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.javaÇ	 É(b
+%19java.lang.String"__concat*
+
+%17java.lang.String*
+
+%18java.lang.String™
+ß
+U
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.javaÇ	 Ñ(
+%20java.lang.String"__concat*
+
+%19java.lang.String*
+, fileState=¶
+£
+U
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.javaÑ Ñ( 
+%21java.lang.Integer"__id***(
+com.lib.entity.FileInfo"
+	fileState¥
+±
+U
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.javaÇ	 Ñ( 
+%22java.lang.String"__concat*
+
+%20java.lang.String*
+
+%21java.lang.Integer¨
+©
+U
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.javaÇ	 Ñ(3
+%23java.lang.String"__concat*
+
+%22java.lang.String*
+, fileClassId=•
+¢
+U
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.javaÑ6 Ñ(A
+%24java.lang.Long"__id*,**
+com.lib.entity.FileInfo"
+fileClassId±
+Æ
+U
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.javaÇ	 Ñ(A
+%25java.lang.String"__concat*
+
+%23java.lang.String*
+
+%24java.lang.LongØ
+¨
+U
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.javaÇ	 Ñ(W
+%26java.lang.String"__concat*
+
+%25java.lang.String*
+, fileCreateTime=®
+•
+U
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.javaÑZ Ñ(h
+%27java.util.Date"__id*/*-
+com.lib.entity.FileInfo"
+fileCreateTime±
+Æ
+U
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.javaÇ	 Ñ(h
+%28java.lang.String"__concat*
+
+%26java.lang.String*
+
+%27java.util.Date™
+ß
+U
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.javaÇ	 Ö(
+%29java.lang.String"__concat*
+
+%28java.lang.String*
+, fileBrief=•
+¢
+U
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.javaÖ Ö( 
+%30java.lang.String"__id***(
+com.lib.entity.FileInfo"
+	fileBrief≥
+∞
+U
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.javaÇ	 Ö( 
+%31java.lang.String"__concat*
+
+%29java.lang.String*
+
+%30java.lang.Stringü
+ú
+U
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.javaÇ	 Ö(&
+%32java.lang.String"__concat*
+
+%31java.lang.String*
+]"r
+U
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.javaÇ Ö('
+
+%32java.lang.StringB
+com.lib.entity.FileInfo

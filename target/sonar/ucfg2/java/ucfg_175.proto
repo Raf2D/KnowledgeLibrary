@@ -1,0 +1,17 @@
+
+5com.lib.entity.FileInfo#getFileSize()Ljava/lang/Long;S
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.java0 0("1*é
+1S
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.java1	 1(Ÿ
+œ
+S
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.java1	 1(
+%0java.lang.Long"__id*)*'
+com.lib.entity.FileInfo"
+
+fileSize"m
+S
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.java1 1(
+
+%0java.lang.LongB
+com.lib.entity.FileInfo

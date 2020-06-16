@@ -1,0 +1,16 @@
+
+9com.lib.entity.DocInfo#getDocCreateTime()Ljava/util/Date;R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/DocInfo.java# #("1*ê
+1R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/DocInfo.java$	 $(¢
+Ÿ
+R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/DocInfo.java$	 $(
+%0java.util.Date"__id*-*+
+com.lib.entity.DocInfo"
+docCreateTime"l
+R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/DocInfo.java$ $(
+
+%0java.util.DateB
+com.lib.entity.DocInfo

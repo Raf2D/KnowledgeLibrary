@@ -1,0 +1,16 @@
+
+6com.lib.entity.MessageInfo#getUserId()Ljava/lang/Long;V
+LD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/MessageInfo.java* *("1*ó
+1V
+LD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/MessageInfo.java+	 +(£
+ 
+V
+LD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/MessageInfo.java+	 +(
+%0java.lang.Long"__id***(
+com.lib.entity.MessageInfo"
+userId"p
+V
+LD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/MessageInfo.java+ +(
+
+%0java.lang.LongB
+com.lib.entity.MessageInfo

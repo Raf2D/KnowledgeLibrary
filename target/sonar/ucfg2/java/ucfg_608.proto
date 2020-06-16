@@ -1,0 +1,80 @@
+
+^com.lib.web.user.main.FileNewController#getRelations(Ljava/lang/Long;)Lcom/lib/dto/JsonResult;e
+YD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/FileNewController.java÷5 ÷(A"startingBlock*õ
+startingBlocke
+YD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/FileNewController.java÷A ÷(nÖ
+Ó
+e
+YD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/FileNewController.java÷ ÷(
+%5"
+__annotate*86
+4org.springframework.web.bind.annotation.ResponseBody*
+
+
+mainFileIdjava.lang.Long
+›
+e
+YD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/FileNewController.java÷c ÷(m
+
+mainFileIdjava.lang.Long"__annotation*
+
+%5*
+1*Ü
+1e
+YD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/FileNewController.javaù ù(*Ş
+Û
+e
+YD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/FileNewController.javaù ù(**
+%0$com.lib.service.user.FileInfoService"__id*@*>)
+'com.lib.web.user.main.FileNewController"
+fileInfoServiceÃÀ
+e
+YD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/FileNewController.javaù ù(C
+%1java.util.List"Scom.lib.service.user.FileInfoService#getRelations(Ljava/lang/Long;)Ljava/util/List;*,
+*
+%0$com.lib.service.user.FileInfoService*
+
+
+mainFileIdjava.lang.Long2getRelations(Ljava/lang/Long;)Ÿ
+œ
+e
+YD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/FileNewController.javaù ù(D
+resjava.util.List"__id*
+
+%1java.util.List–
+“
+e
+YD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/FileNewController.javaú ú(+
+jrcom.lib.dto.JsonResult"__id*
+"" 
+e
+YD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/FileNewController.javaû û()
+%2com.lib.dto.JsonResult"com.lib.dto.JsonResultæ
+ã
+e
+YD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/FileNewController.javaû û(4
+%3"3com.lib.dto.JsonResult#<init>(ZLjava/lang/Object;)V*
+
+%2com.lib.dto.JsonResult*
+""*
+
+resjava.util.List®
+«
+e
+YD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/FileNewController.javaû û(4
+jrcom.lib.dto.JsonResult"__id*
+
+%2com.lib.dto.JsonResultÆ
+Ã
+e
+YD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/FileNewController.javaü ü(
+%4"4org.springframework.web.bind.annotation.ResponseBody*
+
+jrcom.lib.dto.JsonResult"‡
+e
+YD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/FileNewController.javaü ü(
+
+jrcom.lib.dto.JsonResult:
+
+mainFileIdjava.lang.LongB+)
+'com.lib.web.user.main.FileNewController

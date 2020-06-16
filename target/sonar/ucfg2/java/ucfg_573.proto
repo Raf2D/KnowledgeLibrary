@@ -1,0 +1,60 @@
+
+ncom.lib.service.user.impl.ForkInfoServiceImpl#findAllByDocId(Ljava/lang/Long;Ljava/lang/Long;)Ljava/util/List;i
+_D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/ForkInfoServiceImpl.java8 8(+"startingBlock*≥
+startingBlocki
+_D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/ForkInfoServiceImpl.java8+ 8(G≥
+∞
+i
+_D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/ForkInfoServiceImpl.java7 7(
+
+%2"
+__annotate*
+java.lang.Override*
+
+docIdjava.lang.Longù
+ö
+i
+_D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/ForkInfoServiceImpl.java81 8(6
+docIdjava.lang.Long"__annotation*
+
+%2∑
+¥
+i
+_D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/ForkInfoServiceImpl.java7 7(
+
+%3"
+__annotate*
+java.lang.Override*
+
+	docUserIdjava.lang.Long°
+û
+i
+_D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/ForkInfoServiceImpl.java8= 8(F
+	docUserIdjava.lang.Long"__annotation*
+
+%3*
+1*º
+1i
+_D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/ForkInfoServiceImpl.java:	 :(◊
+‘
+i
+_D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/ForkInfoServiceImpl.java:	 :(
+%0com.lib.dao.ForkInfoDao"__id*B*@/
+-com.lib.service.user.impl.ForkInfoServiceImpl"
+forkInfoDaoÎË
+i
+_D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/ForkInfoServiceImpl.java:	 :(5
+%1java.util.List"Xcom.lib.dao.ForkInfoDao#findAllByDocId(Ljava/lang/Long;Ljava/lang/Long;)Ljava/util/List;*
+
+%0com.lib.dao.ForkInfoDao*
+
+docIdjava.lang.Long*
+
+	docUserIdjava.lang.Long20findAllByDocId(Ljava/lang/Long;Ljava/lang/Long;)"É
+i
+_D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/ForkInfoServiceImpl.java: :(6
+
+%1java.util.List:
+docIdjava.lang.Long:
+	docUserIdjava.lang.LongB1/
+-com.lib.service.user.impl.ForkInfoServiceImpl

@@ -1,0 +1,16 @@
+
+2com.lib.dto.ClickInfo#getClickId()Ljava/lang/Long;Q
+GD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/ClickInfo.java5 5("1*à
+1Q
+GD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/ClickInfo.java6	 6(š
+—
+Q
+GD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/ClickInfo.java6	 6(
+%0java.lang.Long"__id*&*$
+com.lib.dto.ClickInfo"	
+clickId"k
+Q
+GD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/ClickInfo.java6 6(
+
+%0java.lang.LongB
+com.lib.dto.ClickInfo

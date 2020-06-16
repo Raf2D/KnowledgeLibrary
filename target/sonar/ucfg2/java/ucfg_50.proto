@@ -1,0 +1,16 @@
+
+Ccom.lib.entity.Classification#getClassificationId()Ljava/lang/Long;Y
+OD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/Classification.java# #( "1*‰
+1Y
+OD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/Classification.java$	 $(³
+°
+Y
+OD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/Classification.java$	 $(
+%0java.lang.Long"__id*7*5
+com.lib.entity.Classification"
+classificationId"s
+Y
+OD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/Classification.java$ $(
+
+%0java.lang.LongB!
+com.lib.entity.Classification

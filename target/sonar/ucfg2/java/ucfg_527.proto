@@ -1,0 +1,36 @@
+
+Ycom.lib.service.user.impl.LuceneServiceImpl#getRelation(Ljava/lang/Long;)Ljava/util/List;g
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/LuceneServiceImpl.java] ]("startingBlock*—
+startingBlockg
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/LuceneServiceImpl.java] ](+≤
+Ø
+g
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/LuceneServiceImpl.java\ \(
+
+%1"
+__annotate*
+java.lang.Override*
+
+fileIdjava.lang.Longú
+ô
+g
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/LuceneServiceImpl.java]$ ](*
+fileIdjava.lang.Long"__annotation*
+
+%1*
+1*á
+1g
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/LuceneServiceImpl.java_	 _(î
+ë
+g
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/LuceneServiceImpl.java_	 _(1
+%0java.util.List"Pcom.lib.utils.LuceneSearchUtil#extractRelation(Ljava/lang/Long;)Ljava/util/List;*"" 
+com.lib.utils.LuceneSearchUtil*
+
+fileIdjava.lang.Long"Å
+g
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/LuceneServiceImpl.java_ _(2
+
+%0java.util.List:
+fileIdjava.lang.LongB/-
++com.lib.service.user.impl.LuceneServiceImpl

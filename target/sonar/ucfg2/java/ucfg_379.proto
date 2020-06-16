@@ -1,0 +1,51 @@
+
+Ccom.lib.enums.UserStateEnum#stateOf(I)Lcom/lib/enums/UserStateEnum;W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/enums/UserStateEnum.java  ('"5*·
+2W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/enums/UserStateEnum.java ( 
+
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/enums/UserStateEnum.java ( $
+statecom.lib.enums.UserStateEnum"__id*
+""½
+º
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/enums/UserStateEnum.java ( $
+statecom.lib.enums.UserStateEnum"
+__arrayGet*%
+#
+%0com.lib.enums.UserStateEnum[]*
+""*
+4
+1*à
+3W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/enums/UserStateEnum.java ("
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/enums/UserStateEnum.java (&
+$
+statecom.lib.enums.UserStateEnum*«
+4W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/enums/UserStateEnum.java (ÄÁ
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/enums/UserStateEnum.java ( 	
+%1int"'com.lib.enums.UserStateEnum#getState()I*&
+$
+statecom.lib.enums.UserStateEnum2
+getState()*
+2
+3*Ê
+5W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/enums/UserStateEnum.java# ()æ
+ã
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/enums/UserStateEnum.java# (+#
+%0com.lib.enums.UserStateEnum[]"Bcom.lib.enums.UserStateEnum#values()[Lcom/lib/enums/UserStateEnum;*"
+com.lib.enums.UserStateEnum*
+2*¿
+1W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/enums/UserStateEnum.java" "("a
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/enums/UserStateEnum.java" "(
+"":
+""B"
+com.lib.enums.UserStateEnum

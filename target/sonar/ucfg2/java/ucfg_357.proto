@@ -1,0 +1,21 @@
+
+Rcom.lib.service.user.impl.FileManageServiceImpl#getRecentHotFile()Ljava/util/List;k
+aD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/FileManageServiceImpl.javak k()"1*Ð
+1k
+aD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/FileManageServiceImpl.javal	 l(Û
+Ø
+k
+aD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/FileManageServiceImpl.javal	 l(
+%0com.lib.dao.FileInfoDao"__id*D*B1
+/com.lib.service.user.impl.FileManageServiceImpl"
+fileInfoDao÷ô
+k
+aD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/FileManageServiceImpl.javal	 l('
+%1java.util.List":com.lib.dao.FileInfoDao#getRecentHotFile()Ljava/util/List;*
+
+%0com.lib.dao.FileInfoDao2getRecentHotFile()"…
+k
+aD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/FileManageServiceImpl.javal l((
+
+%1java.util.ListB31
+/com.lib.service.user.impl.FileManageServiceImpl

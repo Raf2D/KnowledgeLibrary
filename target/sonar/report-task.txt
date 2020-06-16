@@ -1,0 +1,7 @@
+organization=galgi
+projectKey=KnowledgeLibrary
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.8217
+dashboardUrl=https://sonarcloud.io/dashboard?id=KnowledgeLibrary
+ceTaskId=AXJA_jfe6_QSi0vJtEHR
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXJA_jfe6_QSi0vJtEHR

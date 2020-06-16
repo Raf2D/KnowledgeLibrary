@@ -1,0 +1,54 @@
+
+lcom.lib.service.user.impl.LuceneServiceImpl#getParagraph(Ljava/lang/String;Ljava/lang/Long;)Ljava/util/List;g
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/LuceneServiceImpl.javac c($"startingBlock*ß
+startingBlockg
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/LuceneServiceImpl.javac$ c(>µ
+≤
+g
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/LuceneServiceImpl.javab b(
+
+%1"
+__annotate*
+java.lang.Override*
+
+keyWordjava.lang.Stringü
+ú
+g
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/LuceneServiceImpl.javac, c(3
+keyWordjava.lang.String"__annotation*
+
+%1∞
+≠
+g
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/LuceneServiceImpl.javab b(
+
+%2"
+__annotate*
+java.lang.Override*
+
+sizejava.lang.Longö
+ó
+g
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/LuceneServiceImpl.javac9 c(=
+sizejava.lang.Long"__annotation*
+
+%2*
+1*∂
+1g
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/LuceneServiceImpl.javae	 e(√
+¿
+g
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/LuceneServiceImpl.javae	 e(7
+%0java.util.List"bcom.lib.utils.LuceneSearchUtil#extractParagrap(Ljava/lang/String;Ljava/lang/Long;)Ljava/util/List;*"" 
+com.lib.utils.LuceneSearchUtil*
+
+keyWordjava.lang.String*
+
+sizejava.lang.Long"Å
+g
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/LuceneServiceImpl.javae e(8
+
+%0java.util.List:
+keyWordjava.lang.String:
+sizejava.lang.LongB/-
++com.lib.service.user.impl.LuceneServiceImpl

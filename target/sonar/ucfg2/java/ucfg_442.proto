@@ -1,0 +1,39 @@
+
+Ecom.lib.web.admin.main.SystemController#red5Start()Ljava/lang/String;e
+YD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/SystemController.java≠ ≠("1*¶
+
+1e
+YD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/SystemController.javaÆ Æ(ì
+ê
+e
+YD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/SystemController.javaÆ Æ(
+%0java.io.PrintStream"__id*
+""ãà
+e
+YD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/SystemController.javaÆ Æ(;
+
+%1void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%0java.io.PrintStream*'%
+#D:\\\\soklib\\red5-server\\red5.bat2println(Ljava/lang/String;)Õ
+ 
+e
+YD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/SystemController.javaØ Ø($
+%2java.lang.Runtime"1java.lang.Runtime#getRuntime()Ljava/lang/Runtime;*"
+java.lang.Runtime•
+¢
+e
+YD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/SystemController.javaØ Ø(%
+runjava.lang.Runtime"__id*
+
+%2java.lang.Runtime°û
+e
+YD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/SystemController.java∞ ∞(1
+%3java.lang.Process"=java.lang.Runtime#exec(Ljava/lang/String;)Ljava/lang/Process;*
+
+runjava.lang.Runtime*'%
+#D:\\\\soklib\\red5-server\\red5.bat2exec(Ljava/lang/String;)"z
+e
+YD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/SystemController.java¿ ¿(
+redirect:red5B+)
+'com.lib.web.admin.main.SystemController

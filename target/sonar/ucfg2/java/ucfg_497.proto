@@ -1,0 +1,48 @@
+
+Mcom.lib.service.user.impl.OfficeConvertImpl#isOfficeFile(Ljava/lang/String;)Zg
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/OfficeConvertImpl.java% %("startingBlock*Ù
+startingBlockg
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/OfficeConvertImpl.java% %(-¶
+³
+g
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/OfficeConvertImpl.java$ $(
+
+%3"
+__annotate*
+java.lang.Override*
+
+fileNamejava.lang.String 
+
+g
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/OfficeConvertImpl.java%$ %(,
+fileNamejava.lang.String"__annotation*
+
+%3*
+1*·
+1g
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/OfficeConvertImpl.java&	 &(Í
+Ê
+g
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/OfficeConvertImpl.java&	 &(
+%0java.util.List"__id*C*A-
++com.lib.service.user.impl.OfficeConvertImpl"
+convertExtList‰
+†
+g
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/OfficeConvertImpl.java&! &(>
+%1java.lang.String"Gcom.lib.utils.FileUtil#getFileExt(Ljava/lang/String;)Ljava/lang/String;*"
+com.lib.utils.FileUtil*
+
+fileNamejava.lang.Stringùö
+g
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/OfficeConvertImpl.java&	 &(?
+%2boolean",java.util.List#contains(Ljava/lang/Object;)Z*
+
+%0java.util.List*
+
+%1java.lang.String2contains(Ljava/lang/Object;)"q
+g
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/OfficeConvertImpl.java& &(@
+"":
+fileNamejava.lang.StringB/-
++com.lib.service.user.impl.OfficeConvertImpl

@@ -1,0 +1,65 @@
+
+ucom.lib.web.admin.main.ClassManageController#del(Ljavax/servlet/http/HttpSession;Ljava/lang/Long;)Ljava/lang/Integer;h
+^D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/ClassManageController.javaR R(!"startingBlock*…	
+startingBlockh
+^D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/ClassManageController.javaR! R(]è
+å
+h
+^D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/ClassManageController.javaQ Q(P
+%2"
+__annotate*:8
+6org.springframework.web.bind.annotation.RequestMapping*+
+)
+sessionjavax.servlet.http.HttpSessionæ
+ã
+h
+^D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/ClassManageController.javaR R(
+%3"
+__annotate*86
+4org.springframework.web.bind.annotation.ResponseBody*+
+)
+sessionjavax.servlet.http.HttpSession¶
+³
+h
+^D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/ClassManageController.javaR. R(5)
+sessionjavax.servlet.http.HttpSession"__annotation*
+
+%2*
+
+%3Ö
+Ó
+h
+^D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/ClassManageController.javaR R(
+%4"
+__annotate*86
+4org.springframework.web.bind.annotation.ResponseBody*
+
+classIdjava.lang.Longž
+›
+h
+^D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/ClassManageController.javaRU R(\
+classIdjava.lang.Long"__annotation*
+
+%4*
+1*ü
+1h
+^D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/ClassManageController.javaS S(ê
+ç
+h
+^D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/ClassManageController.javaS S(1
+%0+com.lib.service.admin.ClassificationService"__id*B*@.
+,com.lib.web.admin.main.ClassManageController"
+classService«¨
+h
+^D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/ClassManageController.javaS S((	
+%1int"Ecom.lib.service.admin.ClassificationService#delete(Ljava/lang/Long;)I*3
+1
+%0+com.lib.service.admin.ClassificationService*
+
+classIdjava.lang.Long2delete(Ljava/lang/Long;)"r
+h
+^D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/ClassManageController.javaT T(
+"":)
+sessionjavax.servlet.http.HttpSession:
+classIdjava.lang.LongB0.
+,com.lib.web.admin.main.ClassManageController

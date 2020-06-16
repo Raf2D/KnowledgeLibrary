@@ -1,0 +1,25 @@
+
+‹com.lib.web.user.main.MyResourceController#mySearch(Lorg/springframework/ui/Model;Ljava/lang/Integer;Ljava/lang/Integer;)Ljava/lang/String;h
+\D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/MyResourceController.java• •("startingBlock*§
+startingBlockh
+\D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/MyResourceController.java• •(p¦£
+h
+\D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/MyResourceController.java• •($%
+modelorg.springframework.ui.Model"java.lang.Object*
+1*Ï
+1h
+\D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/MyResourceController.java™	 ™(â
+ß
+h
+\D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/MyResourceController.java™	 ™(
+%0"template!file/search*.",
+*com.lib.web.user.main.MyResourceController*'
+%
+modelorg.springframework.ui.Model"{
+h
+\D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/MyResourceController.java™ ™(
+file/search:%
+modelorg.springframework.ui.Model:
+pageNojava.lang.Integer:
+flagjava.lang.IntegerB.,
+*com.lib.web.user.main.MyResourceController

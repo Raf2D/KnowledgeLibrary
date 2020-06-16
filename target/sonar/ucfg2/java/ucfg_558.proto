@@ -1,0 +1,55 @@
+
+Ucom.lib.utils.MahoutRecommender#SlopOneRecommender(Ljava/lang/Long;I)Ljava/util/List;[
+QD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/MahoutRecommender.javav) v(;"1*ä
+1[
+QD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/MahoutRecommender.javaz z(Ð
+Í
+[
+QD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/MahoutRecommender.javaz z(4
+%0.org.apache.mahout.cf.taste.model.JDBCDataModel"__id*2*0!
+com.lib.utils.MahoutRecommender"
+	dataModelÓ
+Ð
+[
+QD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/MahoutRecommender.javaz z( 3
+model*org.apache.mahout.cf.taste.model.DataModel"__id*6
+4
+%0.org.apache.mahout.cf.taste.model.JDBCDataModelú÷
+[
+QD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/MahoutRecommender.java{" {(5N
+%1Horg.apache.mahout.cf.taste.impl.recommender.slopeone.SlopeOneRecommender"Horg.apache.mahout.cf.taste.impl.recommender.slopeone.SlopeOneRecommenderï
+ì
+[
+QD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/MahoutRecommender.java{ {(<
+%2"~org.apache.mahout.cf.taste.impl.recommender.slopeone.SlopeOneRecommender#<init>(Lorg/apache/mahout/cf/taste/model/DataModel;)V*P
+N
+%1Horg.apache.mahout.cf.taste.impl.recommender.slopeone.SlopeOneRecommender*5
+3
+model*org.apache.mahout.cf.taste.model.DataModelû
+ø
+[
+QD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/MahoutRecommender.java{ {(=A
+recommender2org.apache.mahout.cf.taste.recommender.Recommender"__id*P
+N
+%1Horg.apache.mahout.cf.taste.impl.recommender.slopeone.SlopeOneRecommenderÀ½
+[
+QD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/MahoutRecommender.java}, }(S
+%3java.util.List"Porg.apache.mahout.cf.taste.recommender.Recommender#recommend(JI)Ljava/util/List;*C
+A
+recommender2org.apache.mahout.cf.taste.recommender.Recommender*
+
+userIdjava.lang.Long*
+""2recommend(JI)¡
+ž
+[
+QD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/MahoutRecommender.java} }(T!
+recommendationsjava.util.List"__id*
+
+%3java.util.List"„
+]
+QD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/MahoutRecommender.java‚ ‚(#
+!
+recommendationsjava.util.List:
+userIdjava.lang.Long:
+""B#"!
+com.lib.utils.MahoutRecommender

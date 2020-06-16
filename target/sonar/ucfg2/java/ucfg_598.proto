@@ -1,0 +1,116 @@
+
+3com.lib.entity.DocInfo#toString()Ljava/lang/String;R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/DocInfo.java* *("1*š
+1R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/DocInfo.java+	 +(š
+—
+R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/DocInfo.java+ +("
+%0java.lang.Long"__id*%*#
+com.lib.entity.DocInfo"
+docId¦
+£
+R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/DocInfo.java+	 +("
+%1java.lang.String"__concat*
+DocInfo [docId=*
+
+%0java.lang.Long¥
+¢
+R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/DocInfo.java+	 +(3
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+, docUserId=ž
+›
+R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/DocInfo.java+6 +(?
+%3java.lang.Long"__id*)*'
+com.lib.entity.DocInfo"
+	docUserId«
+¨
+R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/DocInfo.java+	 +(?
+%4java.lang.String"__concat*
+
+%2java.lang.String*
+
+%3java.lang.Long£
+ 
+R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/DocInfo.java+	 +(N
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+
+, docName=ž
+›
+R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/DocInfo.java+Q +(X
+%6java.lang.String"__id*'*%
+com.lib.entity.DocInfo"	
+docName­
+ª
+R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/DocInfo.java+	 +(X
+%7java.lang.String"__concat*
+
+%5java.lang.String*
+
+%6java.lang.String¤
+¡
+R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/DocInfo.java+	 +(h
+%8java.lang.String"__concat*
+
+%7java.lang.String*
+, docBrief=Ÿ
+œ
+R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/DocInfo.java, ,(
+%9java.lang.String"__id*(*&
+com.lib.entity.DocInfo"
+
+docBrief®
+«
+R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/DocInfo.java+	 ,(
+%10java.lang.String"__concat*
+
+%8java.lang.String*
+
+%9java.lang.String«
+¨
+R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/DocInfo.java+	 ,(#
+%11java.lang.String"__concat*
+
+%10java.lang.String*
+, docCreateTime=£
+ 
+R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/DocInfo.java,& ,(3
+%12java.util.Date"__id*-*+
+com.lib.entity.DocInfo"
+docCreateTime®
+«
+R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/DocInfo.java+	 ,(3
+%13java.lang.String"__concat*
+
+%11java.lang.String*
+
+%12java.util.Dateœ
+™
+R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/DocInfo.java+	 ,(9
+%14java.lang.String"__concat*
+
+%13java.lang.String*
+]"o
+R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/DocInfo.java+ ,(:
+
+%14java.lang.StringB
+com.lib.entity.DocInfo

@@ -1,0 +1,153 @@
+
+Qcom.lib.utils.BeanUtil#toPagedResult(Ljava/util/List;)Lcom/lib/utils/PagedResult;R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/BeanUtil.java% (2"4*ì
+
+2R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/BeanUtil.java (»≈
+R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/BeanUtil.java (
+%12void"'com.lib.utils.PagedResult#setPageNo(J)V*%
+#
+resultcom.lib.utils.PagedResult*22setPageNo(J)ûõ
+R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/BeanUtil.java (+
+
+%13int"java.util.List#size()I*
+
+datasjava.util.List2size()‘—
+R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/BeanUtil.java (,
+%14void")com.lib.utils.PagedResult#setPageSize(J)V*%
+#
+resultcom.lib.utils.PagedResult*
+
+
+%13int2setPageSize(J)ˇ¸
+R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/BeanUtil.java (%
+%15void"8com.lib.utils.PagedResult#setDataList(Ljava/util/List;)V*%
+#
+resultcom.lib.utils.PagedResult*
+
+datasjava.util.List2setDataList(Ljava/util/List;)ûõ
+R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/BeanUtil.java ((
+
+%16int"java.util.List#size()I*
+
+datasjava.util.List2size()ŒÀ
+R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/BeanUtil.java ()
+%17void"&com.lib.utils.PagedResult#setTotal(J)V*%
+#
+resultcom.lib.utils.PagedResult*
+
+
+%16int2setTotal(J)*
+1*£
+3R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/BeanUtil.java ($ú
+ô
+R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/BeanUtil.java (%"
+pagecom.github.pagehelper.Page"__id*
+
+datasjava.util.List¿Ω
+R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/BeanUtil.java (.	
+%2int"(com.github.pagehelper.Page#getPageNum()I*$
+"
+pagecom.github.pagehelper.Page2getPageNum()ŒÀ
+R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/BeanUtil.java (/
+
+%3void"'com.lib.utils.PagedResult#setPageNo(J)V*%
+#
+resultcom.lib.utils.PagedResult*
+	
+%2int2setPageNo(J)¬ø
+R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/BeanUtil.java (1	
+%4int")com.github.pagehelper.Page#getPageSize()I*$
+"
+pagecom.github.pagehelper.Page2getPageSize()“œ
+R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/BeanUtil.java (2
+
+%5void")com.lib.utils.PagedResult#setPageSize(J)V*%
+#
+resultcom.lib.utils.PagedResult*
+	
+%4int2setPageSize(J)ÿ’
+R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/BeanUtil.java (/
+%6java.util.List"6com.github.pagehelper.Page#getResult()Ljava/util/List;*$
+"
+pagecom.github.pagehelper.Page2getResult()˚¯
+R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/BeanUtil.java (0
+
+%7void"8com.lib.utils.PagedResult#setDataList(Ljava/util/List;)V*%
+#
+resultcom.lib.utils.PagedResult*
+
+%6java.util.List2setDataList(Ljava/util/List;)Ω∫
+R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/BeanUtil.java (+
+
+%8long"&com.github.pagehelper.Page#getTotal()J*$
+"
+pagecom.github.pagehelper.Page2
+getTotal()Õ 
+R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/BeanUtil.java (,
+
+%9void"&com.lib.utils.PagedResult#setTotal(J)V*%
+#
+resultcom.lib.utils.PagedResult*
+
+
+%8long2setTotal(J)Ω∫
+R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/BeanUtil.java (+
+
+%10int"&com.github.pagehelper.Page#getPages()I*$
+"
+pagecom.github.pagehelper.Page2
+getPages()ŒÀ
+R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/BeanUtil.java (,
+%11void"&com.lib.utils.PagedResult#setPages(J)V*%
+#
+resultcom.lib.utils.PagedResult*
+
+
+%10int2setPages(J)*
+1*≈
+4R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/BeanUtil.java  (4ìê
+R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/BeanUtil.java$ (2
+%0com.lib.utils.PagedResult"com.lib.utils.PagedResult•
+¢
+R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/BeanUtil.java  (4
+%1"#com.lib.utils.PagedResult#<init>()V*!
+
+%0com.lib.utils.PagedResult•
+¢
+R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/BeanUtil.java (5#
+resultcom.lib.utils.PagedResult"__id*!
+
+%0com.lib.utils.PagedResult*
+2
+3*‘
+1R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/BeanUtil.java" "("{
+R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/BeanUtil.java" "(%
+#
+resultcom.lib.utils.PagedResult:
+datasjava.util.ListB"
+com.lib.utils.BeanUtil

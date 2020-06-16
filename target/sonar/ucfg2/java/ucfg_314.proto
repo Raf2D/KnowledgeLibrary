@@ -1,0 +1,62 @@
+
+‰com.lib.web.user.main.LoginAndRegisterController#logout(Lorg/springframework/ui/Model;Ljavax/servlet/http/HttpSession;)Ljava/lang/String;l
+bD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/LoginAndRegisterController.javaw w("startingBlock*Ó
+startingBlockl
+bD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/LoginAndRegisterController.javaw w(7ì
+é
+l
+bD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/LoginAndRegisterController.javav v(?
+%5"
+__annotate*:8
+6org.springframework.web.bind.annotation.RequestMapping*+
+)
+sessionjavax.servlet.http.HttpSession²
+¯
+l
+bD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/LoginAndRegisterController.javaw/ w(6)
+sessionjavax.servlet.http.HttpSession"__annotation*
+
+%5ª§
+l
+bD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/LoginAndRegisterController.javaw w("%
+modelorg.springframework.ui.Model"java.lang.Object*
+1*ñ	
+1l
+bD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/LoginAndRegisterController.javax x(	æã
+l
+bD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/LoginAndRegisterController.javax x(
+
+%0void",javax.servlet.http.HttpSession#invalidate()V*+
+)
+sessionjavax.servlet.http.HttpSession2invalidate()—”
+l
+bD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/LoginAndRegisterController.javay! y(%
+%1java.util.Date"java.util.Date©
+¦
+l
+bD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/LoginAndRegisterController.javay y('
+%2"java.util.Date#<init>()V*
+
+%1java.util.Dateê
+ç
+l
+bD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/LoginAndRegisterController.javay y(("
+%3org.springframework.ui.Model"__mapSet*'
+%
+modelorg.springframework.ui.Model*
+date*
+
+%1java.util.Dateæ
+ã
+l
+bD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/LoginAndRegisterController.javaz	 z(
+%4"template!login*4"2
+0com.lib.web.user.main.LoginAndRegisterController*'
+%
+modelorg.springframework.ui.Model"y
+l
+bD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/LoginAndRegisterController.javaz z(	
+login:%
+modelorg.springframework.ui.Model:)
+sessionjavax.servlet.http.HttpSessionB42
+0com.lib.web.user.main.LoginAndRegisterController

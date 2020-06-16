@@ -1,0 +1,41 @@
+
+Gcom.lib.service.user.impl.ForkInfoServiceImpl#delete(Ljava/lang/Long;)Ii
+_D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/ForkInfoServiceImpl.java$ $("startingBlock*×
+startingBlocki
+_D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/ForkInfoServiceImpl.java$ $(´
+±
+i
+_D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/ForkInfoServiceImpl.java# #(
+
+%2"
+__annotate*
+java.lang.Override*
+
+forkIdjava.lang.Longž
+›
+i
+_D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/ForkInfoServiceImpl.java$ $(
+forkIdjava.lang.Long"__annotation*
+
+%2*
+1*Ã
+1i
+_D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/ForkInfoServiceImpl.java&	 &(×
+Ô
+i
+_D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/ForkInfoServiceImpl.java&	 &(
+%0com.lib.dao.ForkInfoDao"__id*B*@/
+-com.lib.service.user.impl.ForkInfoServiceImpl"
+forkInfoDaoƒ€
+i
+_D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/ForkInfoServiceImpl.java&	 &(#	
+%1int"1com.lib.dao.ForkInfoDao#delete(Ljava/lang/Long;)I*
+
+%0com.lib.dao.ForkInfoDao*
+
+forkIdjava.lang.Long2delete(Ljava/lang/Long;)"s
+i
+_D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/ForkInfoServiceImpl.java& &($
+"":
+forkIdjava.lang.LongB1/
+-com.lib.service.user.impl.ForkInfoServiceImpl

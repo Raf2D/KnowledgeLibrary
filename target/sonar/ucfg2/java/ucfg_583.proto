@@ -1,0 +1,26 @@
+
+:com.lib.dto.FileInfoVO#getFileStateStr()Ljava/lang/String;R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/FileInfoVO.java ("1*„
+1R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/FileInfoVO.java 	  (×Ô
+R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/FileInfoVO.java   (-
+%0java.lang.Integer"9com.lib.entity.FileInfo#getFileState()Ljava/lang/Integer;*
+com.lib.dto.FileInfoVO2getFileState()û
+ø
+R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/FileInfoVO.java 	  (.!
+%1com.lib.enums.FileStateEnum"Ccom.lib.enums.FileStateEnum#stateOf(I)Lcom/lib/enums/FileStateEnum;*"
+com.lib.enums.FileStateEnum*
+
+%0java.lang.Integerâß
+R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/FileInfoVO.java 	  (=
+%2java.lang.String"<com.lib.enums.FileStateEnum#getStateInfo()Ljava/lang/String;*#
+!
+%1com.lib.enums.FileStateEnum2getStateInfo()"n
+R
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/FileInfoVO.java   (>
+
+%2java.lang.StringB
+com.lib.dto.FileInfoVO

@@ -1,0 +1,90 @@
+
+ncom.lib.web.user.main.FileNewController#delRelations(Ljava/lang/Long;Ljava/lang/Long;)Lcom/lib/dto/JsonResult;e
+YD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/FileNewController.javaÄ* Ä(6"startingBlock*˜
+startingBlocke
+YD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/FileNewController.javaÄ6 Å(7÷
+”
+e
+YD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/FileNewController.javaÄ Ä(
+%5"
+__annotate*86
+4org.springframework.web.bind.annotation.ResponseBody*
+
+
+mainFileIdjava.lang.Longû
+õ
+e
+YD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/FileNewController.javaÄX Ä(b
+
+mainFileIdjava.lang.Long"__annotation*
+
+%5⁄
+◊
+e
+YD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/FileNewController.javaÄ Ä(
+%6"
+__annotate*86
+4org.springframework.web.bind.annotation.ResponseBody*"
+ 
+relationFileIdjava.lang.Long¢
+ü
+e
+YD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/FileNewController.javaÅ( Å(6 
+relationFileIdjava.lang.Long"__annotation*
+
+%6*
+1*”
+1e
+YD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/FileNewController.javaÇ Ç(ﬁ
+€
+e
+YD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/FileNewController.javaÇ Ç(*
+%0$com.lib.service.user.FileInfoService"__id*@*>)
+'com.lib.web.user.main.FileNewController"
+fileInfoServiceÌÍ
+e
+YD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/FileNewController.javaÇ Ç(D	
+%1int"Tcom.lib.service.user.FileInfoService#delRelations(Ljava/lang/Long;Ljava/lang/Long;)I*,
+*
+%0$com.lib.service.user.FileInfoService*
+
+
+mainFileIdjava.lang.Long*"
+ 
+relationFileIdjava.lang.Long2.delRelations(Ljava/lang/Long;Ljava/lang/Long;)ñ
+ì
+e
+YD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/FileNewController.javaÉ É( 
+jrcom.lib.dto.JsonResult"__id*
+""†ù
+e
+YD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/FileNewController.javaÑ Ñ(
+%2com.lib.dto.JsonResult"com.lib.dto.JsonResult’
+“
+e
+YD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/FileNewController.javaÑ Ñ()
+%3"3com.lib.dto.JsonResult#<init>(ZLjava/lang/Object;)V*
+
+%2com.lib.dto.JsonResult*
+""*
+""Æ
+´
+e
+YD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/FileNewController.javaÑ Ñ()
+jrcom.lib.dto.JsonResult"__id*
+
+%2com.lib.dto.JsonResult∆
+√
+e
+YD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/FileNewController.javaÖ Ö(
+%4"4org.springframework.web.bind.annotation.ResponseBody*
+
+jrcom.lib.dto.JsonResult"á
+e
+YD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/FileNewController.javaÖ Ö(
+
+jrcom.lib.dto.JsonResult:
+
+mainFileIdjava.lang.Long: 
+relationFileIdjava.lang.LongB+)
+'com.lib.web.user.main.FileNewController

@@ -1,0 +1,42 @@
+
+Fcom.lib.service.user.impl.DocInfoServiceImpl#delete(Ljava/lang/Long;)Ih
+^D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/DocInfoServiceImpl.java ("startingBlock*Ò
+startingBlockh
+^D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/DocInfoServiceImpl.java (²
+¯
+h
+^D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/DocInfoServiceImpl.java (
+
+%2"
+__annotate*
+java.lang.Override*
+
+docIdjava.lang.Longœ
+™
+h
+^D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/DocInfoServiceImpl.java (
+docIdjava.lang.Long"__annotation*
+
+%2*
+1*¹
+1h
+^D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/DocInfoServiceImpl.java (Ó
+Ð
+h
+^D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/DocInfoServiceImpl.java (
+%0com.lib.dao.DocInfoDao"__id*@*>.
+,com.lib.service.user.impl.DocInfoServiceImpl"
+
+docInfoDaoÿü
+h
+^D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/DocInfoServiceImpl.java (	
+%1int"0com.lib.dao.DocInfoDao#delete(Ljava/lang/Long;)I*
+
+%0com.lib.dao.DocInfoDao*
+
+docIdjava.lang.Long2delete(Ljava/lang/Long;)"r
+h
+^D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/DocInfoServiceImpl.java (
+"":
+docIdjava.lang.LongB0.
+,com.lib.service.user.impl.DocInfoServiceImpl

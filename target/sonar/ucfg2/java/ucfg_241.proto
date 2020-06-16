@@ -1,0 +1,16 @@
+
+3com.lib.dto.FileScoreInfo#getTime()Ljava/util/Date;U
+KD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/FileScoreInfo.java& &("1*í
+1U
+KD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/FileScoreInfo.java'	 '(Ÿ
+œ
+U
+KD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/FileScoreInfo.java'	 '(
+%0java.util.Date"__id*'*%
+com.lib.dto.FileScoreInfo"
+time"o
+U
+KD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/FileScoreInfo.java' '(
+
+%0java.util.DateB
+com.lib.dto.FileScoreInfo

@@ -1,0 +1,74 @@
+
+rorg.apache.jsp.WEB_002dINF.jsp.common.admin_002dheader_jsp#_jsp_getExpressionFactory()Ljavax/el/ExpressionFactory;y
+oD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\common\admin_002dheader_jsp.java5$ 5(="5*®
+2y
+oD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\common\admin_002dheader_jsp.java9" 9(.°
+­
+y
+oD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\common\admin_002dheader_jsp.java9" 9(."
+%2javax.servlet.jsp.JspFactory"__id*
+""ÃÀ
+y
+oD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\common\admin_002dheader_jsp.java9H 9(Z!
+%3javax.servlet.ServletConfig"Ljavax.servlet.GenericServlet#getServletConfig()Ljavax/servlet/ServletConfig;*><
+:org.apache.jsp.WEB_002dINF.jsp.common.admin_002dheader_jsp2getServletConfig()«¨
+y
+oD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\common\admin_002dheader_jsp.java9H 9(n"
+%4javax.servlet.ServletContext"Mjavax.servlet.ServletConfig#getServletContext()Ljavax/servlet/ServletContext;*#
+!
+%3javax.servlet.ServletConfig2getServletContext()³°
+y
+oD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\common\admin_002dheader_jsp.java9" 9(o-
+%5'javax.servlet.jsp.JspApplicationContext"~javax.servlet.jsp.JspFactory#getJspApplicationContext(Ljavax/servlet/ServletContext;)Ljavax/servlet/jsp/JspApplicationContext;*$
+"
+%2javax.servlet.jsp.JspFactory*$
+"
+%4javax.servlet.ServletContext28getJspApplicationContext(Ljavax/servlet/ServletContext;)ÆÃ
+z
+oD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\common\admin_002dheader_jsp.java9" 9(† 
+%6javax.el.ExpressionFactory"Zjavax.servlet.jsp.JspApplicationContext#getExpressionFactory()Ljavax/el/ExpressionFactory;*/
+-
+%5'javax.servlet.jsp.JspApplicationContext2getExpressionFactory()‚
+ÿ
+z
+oD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\common\admin_002dheader_jsp.java9
+ 9(†W<
+:org.apache.jsp.WEB_002dINF.jsp.common.admin_002dheader_jsp"
+_el_expressionfactory"__id*"
+ 
+%6javax.el.ExpressionFactory*
+1*Š
+3y
+oD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\common\admin_002dheader_jsp.java8 8(!
+þ
+y
+oD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\common\admin_002dheader_jsp.java8 8(! 
+%1javax.el.ExpressionFactory"__id*Y*W<
+:org.apache.jsp.WEB_002dINF.jsp.common.admin_002dheader_jsp"
+_el_expressionfactory*
+2
+1*Š
+5y
+oD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\common\admin_002dheader_jsp.java6 6(
+þ
+y
+oD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\common\admin_002dheader_jsp.java6 6( 
+%0javax.el.ExpressionFactory"__id*Y*W<
+:org.apache.jsp.WEB_002dINF.jsp.common.admin_002dheader_jsp"
+_el_expressionfactory*
+3
+1*¤
+1y
+oD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\common\admin_002dheader_jsp.java= =( 
+þ
+y
+oD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\common\admin_002dheader_jsp.java= =(  
+%7javax.el.ExpressionFactory"__id*Y*W<
+:org.apache.jsp.WEB_002dINF.jsp.common.admin_002dheader_jsp"
+_el_expressionfactory"Ÿ
+y
+oD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\common\admin_002dheader_jsp.java= =(!"
+ 
+%7javax.el.ExpressionFactory:
+%jsp_contextB><
+:org.apache.jsp.WEB_002dINF.jsp.common.admin_002dheader_jsp

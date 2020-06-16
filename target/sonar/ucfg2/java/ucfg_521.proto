@@ -1,0 +1,63 @@
+
+Pcom.lib.web.user.main.TestController#getChildFileClass()Lcom/lib/dto/JsonResult;`
+VD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/TestController.java77 7(H"1*€
+1`
+VD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/TestController.java8 8(í
+è
+`
+VD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/TestController.java8 8(
+fileClassIdjava.lang.Long"__id*
+""ë
+é
+`
+VD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/TestController.java9 9(-
+jrcom.lib.dto.JsonResult"__id*
+""⁄
+◊
+`
+VD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/TestController.java: :(/,
+%0&com.lib.service.user.FileManageService"__id*?*=&
+$com.lib.web.user.main.TestController"
+fileManageService◊‘
+`
+VD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/TestController.java: :(S
+%1java.util.List"_com.lib.service.user.FileManageService#getAllChildClassesById(Ljava/lang/Long;)Ljava/util/List;*.
+,
+%0&com.lib.service.user.FileManageService*
+
+fileClassIdjava.lang.Long2(getAllChildClassesById(Ljava/lang/Long;)õ
+ò
+`
+VD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/TestController.java: :(T
+listjava.util.List"__id*
+
+%1java.util.Listõò
+`
+VD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/TestController.java; ;(+
+%2com.lib.dto.JsonResult"com.lib.dto.JsonResult‚
+ﬂ
+`
+VD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/TestController.java; ;(7
+%3"3com.lib.dto.JsonResult#<init>(ZLjava/lang/Object;)V*
+
+%2com.lib.dto.JsonResult*
+""*
+
+listjava.util.List©
+¶
+`
+VD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/TestController.java; ;(7
+jrcom.lib.dto.JsonResult"__id*
+
+%2com.lib.dto.JsonResult¡
+æ
+`
+VD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/TestController.java< <(
+%4"4org.springframework.web.bind.annotation.ResponseBody*
+
+jrcom.lib.dto.JsonResult"Ç
+`
+VD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/TestController.java< <(
+
+jrcom.lib.dto.JsonResultB(&
+$com.lib.web.user.main.TestController

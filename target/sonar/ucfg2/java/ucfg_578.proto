@@ -1,0 +1,60 @@
+
+ucom.lib.service.user.impl.ForkInfoServiceImpl#findByFileId(Ljava/lang/Long;Ljava/lang/Long;)Lcom/lib/entity/ForkInfo;i
+_D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/ForkInfoServiceImpl.javan n("startingBlock*µ
+startingBlocki
+_D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/ForkInfoServiceImpl.javan n(:´
+±
+i
+_D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/ForkInfoServiceImpl.javam m(
+
+%2"
+__annotate*
+java.lang.Override*
+
+fileIdjava.lang.Longž
+›
+i
+_D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/ForkInfoServiceImpl.javan# n()
+fileIdjava.lang.Long"__annotation*
+
+%2·
+´
+i
+_D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/ForkInfoServiceImpl.javam m(
+
+%3"
+__annotate*
+java.lang.Override*
+
+	docUserIdjava.lang.Long¡
+ž
+i
+_D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/ForkInfoServiceImpl.javan0 n(9
+	docUserIdjava.lang.Long"__annotation*
+
+%3*
+1*Ô
+1i
+_D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/ForkInfoServiceImpl.javap	 p(×
+Ô
+i
+_D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/ForkInfoServiceImpl.javap	 p(
+%0com.lib.dao.ForkInfoDao"__id*B*@/
+-com.lib.service.user.impl.ForkInfoServiceImpl"
+forkInfoDaoú÷
+i
+_D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/ForkInfoServiceImpl.javap	 p(4
+%1com.lib.entity.ForkInfo"_com.lib.dao.ForkInfoDao#findByFileId(Ljava/lang/Long;Ljava/lang/Long;)Lcom/lib/entity/ForkInfo;*
+
+%0com.lib.dao.ForkInfoDao*
+
+fileIdjava.lang.Long*
+
+	docUserIdjava.lang.Long2.findByFileId(Ljava/lang/Long;Ljava/lang/Long;)"Œ
+i
+_D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/ForkInfoServiceImpl.javap p(5
+
+%1com.lib.entity.ForkInfo:
+fileIdjava.lang.Long:
+	docUserIdjava.lang.LongB1/
+-com.lib.service.user.impl.ForkInfoServiceImpl

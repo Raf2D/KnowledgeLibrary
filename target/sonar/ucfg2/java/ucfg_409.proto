@@ -1,0 +1,109 @@
+
+`com.lib.web.admin.main.UserManageController#removeUser(Ljava/lang/Long;)Lcom/lib/dto/JsonResult;g
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/UserManageController.java1 1("startingBlock*®
+2g
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/UserManageController.java9 9($¢Ÿ
+g
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/UserManageController.java9 9(
+%5com.lib.dto.JsonResult"com.lib.dto.JsonResultÚ
+×
+g
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/UserManageController.java9 9(.
+%6"3com.lib.dto.JsonResult#<init>(ZLjava/lang/String;)V*
+
+%5com.lib.dto.JsonResult*
+""*	
+error¸
+µ
+g
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/UserManageController.java9 9(.$
+
+jsonResultcom.lib.dto.JsonResult"__id*
+
+%5com.lib.dto.JsonResult*
+1*²
+3g
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/UserManageController.java5 5(#¢Ÿ
+g
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/UserManageController.java5 5(
+%2com.lib.dto.JsonResult"com.lib.dto.JsonResultÜ
+Ù
+g
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/UserManageController.java5 5(/
+%3"3com.lib.dto.JsonResult#<init>(ZLjava/lang/String;)V*
+
+%2com.lib.dto.JsonResult*
+""*	
+success¸
+µ
+g
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/UserManageController.java5 5(/$
+
+jsonResultcom.lib.dto.JsonResult"__id*
+
+%2com.lib.dto.JsonResultÿü
+g
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/UserManageController.java6 6( 
+
+%4void"3com.lib.dto.JsonResult#setData(Ljava/lang/Object;)V*&
+$
+
+jsonResultcom.lib.dto.JsonResult*	
+success2setData(Ljava/lang/Object;)*
+1*ó
+startingBlockg
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/UserManageController.java1 1(*Ô
+Ñ
+g
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/UserManageController.java/ /(
+%8"
+__annotate*86
+4org.springframework.web.bind.annotation.ResponseBody*
+
+userIdjava.lang.Longœ
+™
+g
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/UserManageController.java1# 1()
+userIdjava.lang.Long"__annotation*
+
+%8*
+4*¨
+4g
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/UserManageController.java2 2( 
+
+g
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/UserManageController.java2 2($
+
+jsonResultcom.lib.dto.JsonResult"__id*
+""Ü
+Ù
+g
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/UserManageController.java3 3(&
+%0 com.lib.service.user.UserService"__id*@*>-
++com.lib.web.admin.main.UserManageController"
+userService¯¬
+g
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/UserManageController.java3 3(7
+%1boolean"Fcom.lib.service.user.UserService#deleteUserByUserId(Ljava/lang/Long;)Z*(
+&
+%0 com.lib.service.user.UserService*
+
+userIdjava.lang.Long2$deleteUserByUserId(Ljava/lang/Long;)*
+2
+3*Ó
+1g
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/UserManageController.java:	 :(Ð
+Í
+g
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/UserManageController.java: :(
+%7"4org.springframework.web.bind.annotation.ResponseBody*&
+$
+
+jsonResultcom.lib.dto.JsonResult"‘
+g
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/UserManageController.java: :(&
+$
+
+jsonResultcom.lib.dto.JsonResult:
+userIdjava.lang.LongB/-
++com.lib.web.admin.main.UserManageController

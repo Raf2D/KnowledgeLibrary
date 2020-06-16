@@ -1,0 +1,16 @@
+
+9com.lib.entity.FileInfo#getFileState()Ljava/lang/Integer;S
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.javaD D("1*ð
+1S
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.javaE	 E(£
+ 
+S
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.javaE	 E(
+%0java.lang.Integer"__id***(
+com.lib.entity.FileInfo"
+	fileState"p
+S
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.javaE E(
+
+%0java.lang.IntegerB
+com.lib.entity.FileInfo

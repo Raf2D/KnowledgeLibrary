@@ -1,0 +1,23 @@
+
+8com.lib.entity.FileInfo#getFileBrief()Ljava/lang/String;S
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.javaP P("1*Ä
+1S
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.javaQ	 Q(¢
+ü
+S
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.javaQ Q('
+%0java.lang.String"__id***(
+com.lib.entity.FileInfo"
+	fileBriefè
+å
+S
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.javaQ	 Q((
+%1java.lang.String"Worg.springframework.web.util.HtmlUtils#htmlEscape(Ljava/lang/String;)Ljava/lang/String;**"(
+&org.springframework.web.util.HtmlUtils*
+
+%0java.lang.String"o
+S
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.javaQ Q()
+
+%1java.lang.StringB
+com.lib.entity.FileInfo

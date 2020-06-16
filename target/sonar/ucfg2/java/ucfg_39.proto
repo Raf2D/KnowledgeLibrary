@@ -1,0 +1,25 @@
+
+]com.lib.web.user.main.UserInfoController#deleteMsgByMsgId(Ljava/lang/Long;)Ljava/lang/String;f
+ZD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/UserInfoController.java‡ ‡("1*ú
+1f
+ZD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/UserInfoController.javaˆ ˆ(Ú
+×
+f
+ZD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/UserInfoController.javaˆ ˆ()
+%0#com.lib.service.user.MessageService"__id*<*:*
+(com.lib.web.user.main.UserInfoController"
+
+msgService¬©
+f
+ZD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/UserInfoController.javaˆ ˆ($
+
+%1void"Gcom.lib.service.user.MessageService#deleteMsgByMsgId(Ljava/lang/Long;)V*+
+)
+%0#com.lib.service.user.MessageService*
+
+msgIdjava.lang.Long2"deleteMsgByMsgId(Ljava/lang/Long;)"€
+f
+ZD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/UserInfoController.java‰ ‰(
+redirect:message/1:
+msgIdjava.lang.LongB,*
+(com.lib.web.user.main.UserInfoController

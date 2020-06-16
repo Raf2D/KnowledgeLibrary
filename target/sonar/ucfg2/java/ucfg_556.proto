@@ -1,0 +1,104 @@
+
+Scom.lib.utils.MahoutRecommender#UserCFRcommender(Ljava/lang/Long;I)Ljava/util/List;[
+QD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/MahoutRecommender.javaK) K(9"1*Þ!
+1[
+QD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/MahoutRecommender.javaM M(©
+¦
+[
+QD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/MahoutRecommender.javaM M(*
+
+%0long"%java.lang.System#currentTimeMillis()J*"
+java.lang.SystemÐ
+Í
+[
+QD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/MahoutRecommender.javaO O(!4
+%1.org.apache.mahout.cf.taste.model.JDBCDataModel"__id*2*0!
+com.lib.utils.MahoutRecommender"
+	dataModelÓ
+Ð
+[
+QD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/MahoutRecommender.javaO O("3
+model*org.apache.mahout.cf.taste.model.DataModel"__id*6
+4
+%1.org.apache.mahout.cf.taste.model.JDBCDataModeløõ
+[
+QD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/MahoutRecommender.javaQ& Q(BM
+%2Gorg.apache.mahout.cf.taste.impl.similarity.PearsonCorrelationSimilarity"Gorg.apache.mahout.cf.taste.impl.similarity.PearsonCorrelationSimilarityí
+ê
+[
+QD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/MahoutRecommender.javaQ" Q(I
+%3"}org.apache.mahout.cf.taste.impl.similarity.PearsonCorrelationSimilarity#<init>(Lorg/apache/mahout/cf/taste/model/DataModel;)V*O
+M
+%2Gorg.apache.mahout.cf.taste.impl.similarity.PearsonCorrelationSimilarity*5
+3
+model*org.apache.mahout.cf.taste.model.DataModelû
+ø
+[
+QD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/MahoutRecommender.javaQ Q(JB
+
+similarity4org.apache.mahout.cf.taste.similarity.UserSimilarity"__id*O
+M
+%2Gorg.apache.mahout.cf.taste.impl.similarity.PearsonCorrelationSimilarityôñ
+[
+QD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/MahoutRecommender.javaS* S(BK
+%4Eorg.apache.mahout.cf.taste.impl.neighborhood.NearestNUserNeighborhood"Eorg.apache.mahout.cf.taste.impl.neighborhood.NearestNUserNeighborhoodí
+ê
+[
+QD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/MahoutRecommender.javaS& S(V
+%5"²org.apache.mahout.cf.taste.impl.neighborhood.NearestNUserNeighborhood#<init>(ILorg/apache/mahout/cf/taste/similarity/UserSimilarity;Lorg/apache/mahout/cf/taste/model/DataModel;)V*M
+K
+%4Eorg.apache.mahout.cf.taste.impl.neighborhood.NearestNUserNeighborhood*2*D
+B
+
+similarity4org.apache.mahout.cf.taste.similarity.UserSimilarity*5
+3
+model*org.apache.mahout.cf.taste.model.DataModelÿ
+ü
+[
+QD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/MahoutRecommender.javaS S(WH
+neighborhood8org.apache.mahout.cf.taste.neighborhood.UserNeighborhood"__id*M
+K
+%4Eorg.apache.mahout.cf.taste.impl.neighborhood.NearestNUserNeighborhoodøõ
+[
+QD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/MahoutRecommender.javaW$ W(?M
+%6Gorg.apache.mahout.cf.taste.impl.recommender.GenericUserBasedRecommender"Gorg.apache.mahout.cf.taste.impl.recommender.GenericUserBasedRecommenderð
+í
+[
+QD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/MahoutRecommender.javaW  W(^
+%7"íorg.apache.mahout.cf.taste.impl.recommender.GenericUserBasedRecommender#<init>(Lorg/apache/mahout/cf/taste/model/DataModel;Lorg/apache/mahout/cf/taste/neighborhood/UserNeighborhood;Lorg/apache/mahout/cf/taste/similarity/UserSimilarity;)V*O
+M
+%6Gorg.apache.mahout.cf.taste.impl.recommender.GenericUserBasedRecommender*5
+3
+model*org.apache.mahout.cf.taste.model.DataModel*J
+H
+neighborhood8org.apache.mahout.cf.taste.neighborhood.UserNeighborhood*D
+B
+
+similarity4org.apache.mahout.cf.taste.similarity.UserSimilarityú
+÷
+[
+QD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/MahoutRecommender.javaW W(_A
+recommender2org.apache.mahout.cf.taste.recommender.Recommender"__id*O
+M
+%6Gorg.apache.mahout.cf.taste.impl.recommender.GenericUserBasedRecommenderÀ½
+[
+QD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/MahoutRecommender.javaY. Y(U
+%8java.util.List"Porg.apache.mahout.cf.taste.recommender.Recommender#recommend(JI)Ljava/util/List;*C
+A
+recommender2org.apache.mahout.cf.taste.recommender.Recommender*
+
+userIdjava.lang.Long*
+""2recommend(JI)¡
+ž
+[
+QD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/MahoutRecommender.javaY Y(V!
+recommendationsjava.util.List"__id*
+
+%8java.util.List"‚
+[
+QD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/MahoutRecommender.java[ [(#
+!
+recommendationsjava.util.List:
+userIdjava.lang.Long:
+""B#"!
+com.lib.utils.MahoutRecommender

@@ -1,0 +1,825 @@
+
+çorg.apache.jsp.WEB_002dINF.jsp.file.myforks_jsp#_jspService(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)Vn
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.java` `("96*Ã
+68R
+JD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/head.jsp *(Î
+Ë
+
+R
+JD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/head.jsp *(
+%33void")java.io.Writer#write(Ljava/lang/String;)V*$
+"
+outjavax.servlet.jsp.JspWriter*ò	ï	
+í	/\">\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\">\r\n<meta charset=\"utf-8\">\r\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\r\n<meta name=\"description\" content=\"\">\r\n<meta name=\"keywords\" content=\"\">\r\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\r\n<!-- Set render engine for 360 browser -->\r\n<meta name=\"renderer\" content=\"webkit\">\r\n<title>Áü•ËØÜÂ∫ìÁÆ°ÁêÜÁ≥ªÁªü</title>\r\n<!-- No Baidu Siteapp-->\r\n<meta http-equiv=\"Cache-Control\" content=\"no-siteapp\" />\r\n<link rel=\"icon\" type=\"image/png\" href=\"resource/image/bitbug_favicon_3.ico\">\r\n<!-- Add to homescreen for Chrome on Android -->\r\n<meta name=\"mobile-web-app-capable\" content=\"yes\">\r\n<!-- Add to homescreen for Safari on iOS -->\r\n<meta name=\"apple-mobile-web-app-capable\" content=\"yes\">\r\n<meta name=\"apple-mobile-web-app-status-bar-style\" content=\"black\">\r\n<meta name=\"apple-mobile-web-app-title\" content=\"Amaze UI\" />\r\n<link rel=\"apple-touch-icon-precomposed\"\r\n\thref=\"resource/amazeui/i/app-icon72x72@2x.png\">\r\n\r\n<!-- Tile icon for Win8 (144x144 + tile color) -->\r\n2write(Ljava/lang/String;)*
+67*Ö
+24p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.java≤ ≤(	ÜÉ
+q
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.java≤ ≤(Ê	
+%67void")java.io.Writer#write(Ljava/lang/String;)V*$
+"
+outjavax.servlet.jsp.JspWriter*î
+ë
+
+é
+\t\t\t\t<span style=\"color:red;display:none\">ÂêçÁß∞‰∏çËÉΩ‰∏∫Á©∫</span>\r\n\t\t\t</div>\r\n\t\t\t<div class=\"am-modal-footer\">\r\n\t\t\t\t<span class=\"am-modal-btn\" data-am-modal-cancel>ÂèñÊ∂à</span> \r\n\t\t\t\t<span class=\"am-modal-btn\" onclick=\"insertDoc()\" data-am-modal-confirm >Ê∑ªÂä†</span>\r\n\t\t\t</div>\r\n\t\t</div>\r\n\t</div>\r\n\t\r\n\t<!-- Âà†Èô§Êñá‰ª∂Â§π -->\r\n\t<div class=\"am-modal am-modal-prompt\" tabindex=\"-1\" id=\"my-prompt-delete\">\r\n\t\t<div class=\"am-modal-dialog\">\r\n\t\t\t<div class=\"am-modal-hd\">Âà†Èô§Êî∂ËóèÂ§π</div>\r\n\t\t\t<div class=\"am-modal-bd\">\r\n\t\t\t\tÈÄâÊã©Êî∂ËóèÂ§π:&nbsp&nbsp&nbsp\r\n              <select data-am-selected=\"{searchBox: 1}\" id=\"dSelect\"> \r\n              \r\n              </select>\r\n            \r\n\t\t\t</div>\r\n\t\t\t<div class=\"am-modal-footer\">\r\n\t\t\t\t<span class=\"am-modal-btn\" data-am-modal-cancel>ÂèñÊ∂à</span> <span\r\n\t\t\t\t\tclass=\"am-modal-btn\" data-am-modal-confirm>Âà†Èô§</span>\r\n\t\t\t</div>\r\n\t\t</div>\r\n\t</div>\r\n\t\r\n\t<div class=\"am-modal am-modal-loading am-modal-no-btn\" tabindex=\"-1\"\r\n\t\tid=\"wait-modal\">\r\n\t\t<div class=\"am-modal-dialog\">\r\n\t\t\t<div class=\"am-modal-hd\" id=\"wait-model-text\"></div>\r\n\t\t\t<div class=\"am-modal-bd\">\r\n2write(Ljava/lang/String;)*
+23*–
+69S
+JD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/head.jsp (ñÓÎ
+U
+JD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/head.jspq (ì
+%32void")java.io.Writer#write(Ljava/lang/String;)V*$
+"
+outjavax.servlet.jsp.JspWriter*
+
+%31java.lang.Object2write(Ljava/lang/String;)*
+68*ü
+25p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.java± ±(	†ù
+q
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.java± ±(Ä
+
+%66void")java.io.Writer#write(Ljava/lang/String;)V*$
+"
+outjavax.servlet.jsp.JspWriter*Æ
+´
+
+®
+\r\n\t\t\t\t\t\t\t</select>\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t<div class=\"am-u-sm-3  am-text-left\"\r\n\t\t\t\t\t\t\tstyle=\"margin-top: 10px; margin-bottom: 10px;\">Â§áÊ≥®:</div>\r\n\t\t\t\t\t\t<div class=\"am-u-sm-8  am-u-end\"\r\n\t\t\t\t\t\t\tstyle=\"margin-top: 10px; margin-bottom: 10px;\">\r\n\t\t\t\t\t\t\t<textarea rows=\"2\" id=\"cForkNote\" required=\"required\"\r\n\t\t\t\t\t\t\t\tplaceholder=\"Êñá‰ª∂Â§áÊ≥®\"></textarea>\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t\t<div class=\"am-margin\">\r\n\t\t\t\t\t\t\t<button type=\"button\" onclick=\"submit()\"\r\n\t\t\t\t\t\t\t\tclass=\"am-btn am-btn-primary am-btn-xs\" data-am-modal-close>Êèê‰∫§‰øùÂ≠ò</button>\r\n\t\t\t\t\t\t\t<button type=\"button\" class=\"am-btn am-btn-primary am-btn-xs\"\r\n\t\t\t\t\t\t\t\tdata-am-modal-close>ÊîæÂºÉ‰øùÂ≠ò</button>\r\n\t\t\t\t\t\t</div>\r\n\t\t\t\t\t</div>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t</div>\r\n\t</div>\r\n\t\r\n\t<!-- Êñ∞Âª∫Êñá‰ª∂Â§π -->\r\n\t<div class=\"am-modal am-modal-prompt\" tabindex=\"-1\" id=\"my-prompt-add\">\r\n\t\t<div class=\"am-modal-dialog\">\r\n\t\t\t<div class=\"am-modal-hd\">Êñ∞Âª∫Êî∂ËóèÂ§π</div>\r\n\t\t\t<div class=\"am-modal-bd\">\r\n\t\t\t\tÊî∂ËóèÂ§πÂêçÁß∞ :&nbsp&nbsp&nbsp<input  type=\"text\" style=\"display:inline;width:200px;\" id=\"sDocName\" class=\"am-modal-prompt-input\">\r\n2write(Ljava/lang/String;)*
+24*„
+26W
+KD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/file/myforks.jspÅ	 Á()˝˙
+W
+KD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/file/myforks.jspÅ	 Á()
+%65void")java.io.Writer#write(Ljava/lang/String;)V*$
+"
+outjavax.servlet.jsp.JspWriter*•
+¢
+
+ü
+\r\n\t\t\t\t\t\t\t\t</ul>\r\n\t\t\t\t</div>\r\n\t\t\t<hr>\r\n        </div>\r\n\r\n      </div>\r\n    </div>\r\n\r\n    \r\n\r\n  </div>\r\n\t</div>\r\n\t<!-- Ê®°ÊÄÅÁ™óÂè£ -->\r\n\t<div class=\"am-modal am-modal-no-btn\" tabindex=\"-1\" id=\"doc-modal-1\">\r\n\t\t<div class=\"am-modal-dialog\">\r\n\t\t\t<div class=\"am-modal-hd\">\r\n\t\t\t\t‰øÆÊîπÊî∂Ëóè <a href=\"javascript: void(0)\" class=\"am-close am-close-spin\"\r\n\t\t\t\t\tdata-am-modal-close>&times;</a>\r\n\t\t\t</div>\r\n\t\t\t<div class=\"am-modal-bd\">\r\n\r\n\t\t\t\t<div class=\"am-form\">\r\n\t\t\t\t\t<div class=\"am-g am-margin-top-sm\">\r\n\t\t\t\t\t\t<input type=\"hidden\" id=\"cForkId\"> \r\n\t\t\t\t\t\t<input type=\"hidden\" id=\"cDocName\"> \r\n\t\t\t\t\t\t<div class=\"am-u-sm-3   am-text-left \">ÂêçÁß∞:</div>\r\n\t\t\t\t\t\t<div class=\"am-u-sm-8 am-u-end\">\r\n\t\t\t\t\t\t\t<input type=\"text\" class=\"am-input-sm\"\r\n\t\t\t\t\t\t\t\tvalue=\"\" id=\"cFileName\"\r\n\t\t\t\t\t\t\t\treadonly=\"readonly\">\r\n\t\t\t\t\t\t</div>\r\n\r\n\t\t\t\t\t\t<div class=\"am-u-sm-3  am-text-left\" style=\"margin-top: 10px;\">Êñá‰ª∂Â§π:</div>\r\n\t\t\t\t\t\t<div class=\"am-u-sm-8 am-u-end\"\r\n\t\t\t\t\t\t\tstyle=\"margin-top: 10px; margin-left: -10px;\">\r\n\t\t\t\t\t\t\t<select id=\"select1\" data-am-selected=\"{searchBox: 1}\">\r\n2write(Ljava/lang/String;)*
+25*Ú
+27p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javaØ Ø("z
+p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javaØ Ø(
+""*Û
+29p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javaÆ
+ Æ(#
+Ì
+p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javaÆ
+ Æ(7
+%64boolean"korg.apache.jsp.WEB_002dINF.jsp.file.myforks_jsp#_jspx_meth_c_005fif_005f4(Ljavax/servlet/jsp/PageContext;)Z*31
+/org.apache.jsp.WEB_002dINF.jsp.file.myforks_jsp*
+
+%jsp_context*5
+3
+_jspx_page_contextjavax.servlet.jsp.PageContext*
+26
+27*œ
+71S
+JD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/head.jsp (ñÌÍ
+T
+JD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/head.jspO (q
+%30void")java.io.Writer#write(Ljava/lang/String;)V*$
+"
+outjavax.servlet.jsp.JspWriter*
+
+%29java.lang.Object2write(Ljava/lang/String;)*
+69*”
+73p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javaå å(	‘—
+p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javaå å(
+%28void"java.io.Writer#write(I)V*$
+"
+outjavax.servlet.jsp.JspWriter*
+""2write(I)*
+71*œ
+74S
+JD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/head.jsp (ñÌÍ
+T
+JD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/head.jsp, (N
+%27void")java.io.Writer#write(Ljava/lang/String;)V*$
+"
+outjavax.servlet.jsp.JspWriter*
+
+%26java.lang.Object2write(Ljava/lang/String;)*
+73*”
+30U
+KD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/file/myforks.jsp~	 (3ÔÏ
+U
+KD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/file/myforks.jsp~	 (3
+%63void")java.io.Writer#write(Ljava/lang/String;)V*$
+"
+outjavax.servlet.jsp.JspWriter*
+\r\n\t\t\t\t\t\t\t\t\t2write(Ljava/lang/String;)*
+29*Ú
+31p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.java¨ ¨("z
+p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.java¨ ¨(
+""*”
+76p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javaä ä(	‘—
+p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javaä ä(
+%25void"java.io.Writer#write(I)V*$
+"
+outjavax.servlet.jsp.JspWriter*
+""2write(I)*
+74*”
+77p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javaâ â(	‘—
+p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javaâ â(
+%24void"java.io.Writer#write(I)V*$
+"
+outjavax.servlet.jsp.JspWriter*
+""2write(I)*
+76*¯
+33p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.java´
+ ´((ı
+Ú
+p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.java´
+ ´(<
+%62boolean"porg.apache.jsp.WEB_002dINF.jsp.file.myforks_jsp#_jspx_meth_c_005fforEach_005f1(Ljavax/servlet/jsp/PageContext;)Z*31
+/org.apache.jsp.WEB_002dINF.jsp.file.myforks_jsp*
+
+%jsp_context*5
+3
+_jspx_page_contextjavax.servlet.jsp.PageContext*
+30
+31*”
+78p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javaà à(	‘—
+p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javaà à(
+%23void"java.io.Writer#write(I)V*$
+"
+outjavax.servlet.jsp.JspWriter*
+""2write(I)*
+77*◊
+34U
+KD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/file/myforks.jspu	 w(=Û
+U
+KD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/file/myforks.jspu	 w(=
+%61void")java.io.Writer#write(Ljava/lang/String;)V*$
+"
+outjavax.servlet.jsp.JspWriter*
+\r\n\r\n\t\t\t\t\t\t\t\t\t2write(Ljava/lang/String;)*
+33*œ
+79S
+JD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/head.jsp (ñÌÍ
+T
+JD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/head.jsp ()
+%22void")java.io.Writer#write(Ljava/lang/String;)V*$
+"
+outjavax.servlet.jsp.JspWriter*
+
+%21java.lang.Object2write(Ljava/lang/String;)*
+78*Ú
+35p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.java© ©("z
+p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.java© ©(
+""*Û
+37p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.java®
+ ®(#
+Ì
+p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.java®
+ ®(7
+%60boolean"korg.apache.jsp.WEB_002dINF.jsp.file.myforks_jsp#_jspx_meth_c_005fif_005f1(Ljavax/servlet/jsp/PageContext;)Z*31
+/org.apache.jsp.WEB_002dINF.jsp.file.myforks_jsp*
+
+%jsp_context*5
+3
+_jspx_page_contextjavax.servlet.jsp.PageContext*
+35
+34*Ÿ
+38U
+KD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/file/myforks.jspn s(*ıÚ
+U
+KD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/file/myforks.jspn s(*
+%59void")java.io.Writer#write(Ljava/lang/String;)V*$
+"
+outjavax.servlet.jsp.JspWriter*üú
+ô\r\n              </tbody>\r\n            </table>\r\n\t\t\t\t<div class=\"am-fr\">\r\n\t\t\t\t\t\t\t\t<ul class=\"am-pagination\">\r\n\t\t\t\t\t\t\t\t\t2write(Ljava/lang/String;)*
+37*Ú
+39p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.java¶ ¶("z
+p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.java¶ ¶(
+""*÷
+81S
+JD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/head.jsp (ñÙÒ
+S
+JD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/head.jsp (ñ
+%20void")java.io.Writer#write(Ljava/lang/String;)V*$
+"
+outjavax.servlet.jsp.JspWriter*!
+\r\n\r\n\r\n\r\n<base href=\"2write(Ljava/lang/String;)*
+79*∏
+82p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javaÇ Ç( ≈
+¬
+p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javaÇ Ç( "
+outjavax.servlet.jsp.JspWriter"__id*$
+"
+%18javax.servlet.jsp.JspWriterÀ
+»
+p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javaÉ É((
+	_jspx_outjavax.servlet.jsp.JspWriter"__id*$
+"
+outjavax.servlet.jsp.JspWriter£†
+U
+KD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/file/myforks.jsp (&
+%19void")java.io.Writer#write(Ljava/lang/String;)V*$
+"
+outjavax.servlet.jsp.JspWriter*NL
+J\r\n<!DOCTYPE html>\r\n<html>\r\n<head>\r\n<title>ÊàëÁöÑËµÑÊ∫ê</title>\r\n2write(Ljava/lang/String;)*
+81*ñ
+83p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javaÅ Å((óî
+p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javaÇ Ç( "
+%18javax.servlet.jsp.JspWriter"Bjavax.servlet.jsp.JspContext#getOut()Ljavax/servlet/jsp/JspWriter;*.
+,
+pageContextjavax.servlet.jsp.PageContext2getOut()*
+82*•
+84p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javaÄ Ä(-¶£
+p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javaÅ Å((%
+%17javax.servlet.http.HttpSession"Jjavax.servlet.jsp.PageContext#getSession()Ljavax/servlet/http/HttpSession;*.
+,
+pageContextjavax.servlet.jsp.PageContext2getSession()*
+83*©
+85n
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.java (3¨©
+p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javaÄ Ä(-"
+%16javax.servlet.ServletConfig"Mjavax.servlet.jsp.PageContext#getServletConfig()Ljavax/servlet/ServletConfig;*.
+,
+pageContextjavax.servlet.jsp.PageContext2getServletConfig()*
+84*¯
+41p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.java•
+ •((ı
+Ú
+p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.java•
+ •(<
+%58boolean"porg.apache.jsp.WEB_002dINF.jsp.file.myforks_jsp#_jspx_meth_c_005fforEach_005f0(Ljavax/servlet/jsp/PageContext;)Z*31
+/org.apache.jsp.WEB_002dINF.jsp.file.myforks_jsp*
+
+%jsp_context*5
+3
+_jspx_page_contextjavax.servlet.jsp.PageContext*
+38
+39*ﬁ
+86n
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.java| }( œ
+Ã
+n
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.java| }( ,
+pageContextjavax.servlet.jsp.PageContext"__id*&
+$
+%14javax.servlet.jsp.PageContextﬁ
+€
+n
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.java~ ~(&3
+_jspx_page_contextjavax.servlet.jsp.PageContext"__id*.
+,
+pageContextjavax.servlet.jsp.PageContextÆ´
+n
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.java (3#
+%15javax.servlet.ServletContext"Ojavax.servlet.jsp.PageContext#getServletContext()Ljavax/servlet/ServletContext;*.
+,
+pageContextjavax.servlet.jsp.PageContext2getServletContext()*
+85*ü
+42U
+KD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/file/myforks.jsp/
+ J(;ª
+∏
+
+U
+KD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/file/myforks.jsp/
+ J(;
+%57void")java.io.Writer#write(Ljava/lang/String;)V*$
+"
+outjavax.servlet.jsp.JspWriter*Â‚
+ﬂ\"  class=\"am-form-field\">\r\n          <span class=\"am-input-group-btn\">\r\n            <button class=\"am-btn am-btn-default\" type=\"submit\">ÊêúÁ¥¢</button>\r\n          </span>\r\n         \r\n          </div>\r\n           </form>\r\n        </div>\r\n      </div>\r\n\r\n      <div class=\"am-g\">\r\n        <div class=\"am-u-sm-12\">\r\n          \r\n            <table class=\"am-table am-table-striped am-table-hover table-main\">\r\n              <thead>\r\n              <tr>\r\n            \r\n                <th class=\"table-image\">Áº©Áï•Âõæ</th>\r\n                <th class=\"table-title\">Êñá‰ª∂ÂêçÁß∞</th>\r\n                <th class=\"table-author am-hide-sm-only\">Êñá‰ª∂‰ΩúËÄÖ</th>\r\n                <th class=\"table-date am-hide-sm-only\">Êî∂ËóèÊó•Êúü</th>\r\n                <th class=\"table-type\">Êî∂ËóèÂ§π</th>\r\n                <th class=\"table-text\">Êî∂ËóèÂ§áÊ≥®</th>\r\n                <th class=\"table-set\">Êìç‰Ωú</th>\r\n                <th class=\"table-type\">È¢ÑËßà</th>\r\n              </tr>\r\n              </thead>\r\n              <tbody>\r\n          \t        2write(Ljava/lang/String;)*
+41*◊
+87n
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.java| |( ¶
+£
+n
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.java| |( #
+%13javax.servlet.jsp.JspFactory"__id*
+""±Æ
+n
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.java| }( $
+%14javax.servlet.jsp.PageContext"µjavax.servlet.jsp.JspFactory#getPageContext(Ljavax/servlet/Servlet;Ljavax/servlet/ServletRequest;Ljavax/servlet/ServletResponse;Ljava/lang/String;ZIZ)Ljavax/servlet/jsp/PageContext;*%
+#
+%13javax.servlet.jsp.JspFactory*31
+/org.apache.jsp.WEB_002dINF.jsp.file.myforks_jsp*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse*
+""*
+""*2Ä@*
+""2ygetPageContext(Ljavax/servlet/Servlet;Ljavax/servlet/ServletRequest;Ljavax/servlet/ServletResponse;Ljava/lang/String;ZIZ)*
+86*“
+43U
+KD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/file/myforks.jsp. .(hÓÎ
+U
+KD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/file/myforks.jsp.@ .(O
+%56void")java.io.Writer#write(Ljava/lang/String;)V*$
+"
+outjavax.servlet.jsp.JspWriter*
+
+%55java.lang.Object2write(Ljava/lang/String;)*
+42*∏
+88n
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.java{ {(ª∏
+n
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.java{ {(9
+%12void"Ajavax.servlet.ServletResponse#setContentType(Ljava/lang/String;)V*4
+2
+response&javax.servlet.http.HttpServletResponse*
+text/html; charset=UTF-82"setContentType(Ljava/lang/String;)*
+87*ä
+44U
+KD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/file/myforks.jsp. .(h¶£
+U
+KD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/file/myforks.jsp.@ .(O
+%55java.lang.Object"Ojavax.servlet.ServletRequest#getParameter(Ljava/lang/String;)Ljava/lang/String;*2
+0
+request%javax.servlet.http.HttpServletRequest*
+
+search2 getParameter(Ljava/lang/String;)*
+43*ª
+89n
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javap p(4Ø
+¨
+n
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javap p(4,
+pageContextjavax.servlet.jsp.PageContext"__id*
+""•
+¢
+n
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javat t(+"
+outjavax.servlet.jsp.JspWriter"__id*
+""´
+®
+n
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javav v(1(
+	_jspx_outjavax.servlet.jsp.JspWriter"__id*
+""∂
+≥
+n
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javaw w(<3
+_jspx_page_contextjavax.servlet.jsp.PageContext"__id*
+""*
+88*Ã
+45p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.java¢ ¢(	Õ 
+q
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.java¢ ¢(Á
+%54void")java.io.Writer#write(Ljava/lang/String;)V*$
+"
+outjavax.servlet.jsp.JspWriter*€ÿ
+’              \r\n            </select>\r\n            \r\n          </div>\r\n        </div>\r\n        <div class=\"am-u-sm-12 am-u-md-3\">\r\n         <form action=\"user/myforks/-1/1\" method=\"get\">\r\n          <div class=\"am-input-group am-input-group-sm\">\r\n            <input type=\"text\" name=\"search\" id=\"search\" value=\"2write(Ljava/lang/String;)*
+44*˙
+46U
+KD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/file/myforks.jsp .(hñì
+U
+KD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/file/myforks.jsp .(h
+%53void")java.io.Writer#write(Ljava/lang/String;)V*$
+"
+outjavax.servlet.jsp.JspWriter*¿	Ω	
+∫	\r\n\t\t<!-- sidebar end -->\r\n\t\t<!-- content start -->\r\n\t\t<div class=\"admin-content\">\r\n    <div class=\"admin-content-body\">\r\n      <div class=\"am-cf am-padding am-padding-bottom-0\">\r\n        <div class=\"am-fl am-cf\"><strong class=\"am-text-primary am-text-lg\">ÊàëÁöÑÊî∂Ëóè</strong> / <small>Êî∂ËóèÁöÑËµÑÊ∫ê</small></div>\r\n      </div>\r\n\r\n      <hr>\r\n\r\n      <div class=\"am-g\">\r\n        <div class=\"am-u-sm-12 am-u-md-6\">\r\n          <div class=\"am-btn-toolbar\">\r\n            <div class=\"am-btn-group am-btn-group-xs\">\r\n              <button type=\"button\" class=\"am-btn am-btn-primary \"id=\"doc-prompt-toggle-add\"><span class=\"am-icon-plus\"></span> Êñ∞Â¢ûÊî∂ËóèÂ§π</button>\r\n              <button type=\"button\" class=\"am-btn am-btn-primary \"  style=\"margin-left:10PX;\"  id=\"doc-prompt-toggle-delete\"><span class=\"am-icon-trash-o\"></span> Âà†Èô§Êî∂ËóèÂ§π</button>\r\n            </div>\r\n          </div>\r\n        </div>\r\n        <div class=\"am-u-sm-12 am-u-md-3\">\r\n        \r\n          <div class=\"am-form-group\">\r\n           \r\n            <select id=\"select\"  data-am-selected=\"{searchBox: 1}\" style=\"display: none;\">\r\n2write(Ljava/lang/String;)*
+45*ﬂ
+47p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.java† †(	‡›
+q
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.java† †(Ê
+%52void")java.io.Writer#write(Ljava/lang/String;)V*$
+"
+outjavax.servlet.jsp.JspWriter*ÓÎ
+Ë\t\t\t<div class=\"am-panel-bd\">\r\n\t\t\t\t<p>\r\n\t\t\t\t\t<span class=\"am-icon-bookmark\"></span> ÂÖ¨Âëä\r\n\t\t\t\t</p>\r\n\t\t\t\t<p>Áü•ËØÜÂ∞±ÊòØÂäõÈáè ‚Äî‚Äî SOKLIB</p>\r\n\t\t\t</div>\r\n\t\t</div>\r\n\r\n\t</div>\r\n</div>2write(Ljava/lang/String;)*
+46*¶
+48p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javaü ü(	ß§
+q
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javaü ü(â
+
+%51void")java.io.Writer#write(Ljava/lang/String;)V*$
+"
+outjavax.servlet.jsp.JspWriter*µ
+≤
+
+Ø
+\t\t\t\t\tid=\"collapse-nav-person\">\r\n\t\t\t\t\t<li><a href=\"user/myfiles/1?searchNULL=1\" class=\"am-cf\"><span\r\n\t\t\t\t\t\t\tclass=\"am-icon-database\"></span> ÊàëÁöÑËµÑÊ∫ê</a></li>\r\n\t\t\t\t\t<li><a href=\"user/myforks/-1/1\"><span\r\n\t\t\t\t\t\t\tclass=\"am-icon-heart-o\"></span> Áü•ËØÜÊî∂Ëóè</a></li>\r\n\t\t\t\t\t<li><a href=\"user/upload\"><span\r\n\t\t\t\t\t\t\tclass=\"am-icon-cloud-upload\"></span> Áü•ËØÜÂØºÂÖ•</a></li>\r\n\t\t\t\t\t<li><a href=\"user/newfile\"><span\r\n\t\t\t\t\t\t\tclass=\"am-icon-pencil-square-o\"></span> Áü•ËØÜÂΩíÁ∫≥</a></li>\r\n\t\t\t\t</ul></li>\r\n\r\n\t\t\t<li class=\"admin-parent\"><a class=\"am-cf\"\r\n\t\t\t\tdata-am-collapse=\"{target: '#collapse-nav2'}\"><span\r\n\t\t\t\t\tclass=\"am-icon-info\"></span> ‰∏™‰∫∫‰ø°ÊÅØ<span\r\n\t\t\t\t\tclass=\"am-icon-angle-right am-fr am-margin-right\"></span></a>\r\n\t\t\t\t<ul class=\"am-list am-collapse admin-sidebar-sub am-in\"\r\n\t\t\t\t\tid=\"collapse-nav2\">\r\n\t\t\t\t\t<li><a href=\"user/userinfo\"><span\r\n\t\t\t\t\t\t\tclass=\"am-icon-user\"></span> ‰∏™‰∫∫ËµÑÊñô</a></li>\r\n\t\t\t\t\t<li><a href=\"user/user-account\"><span\r\n\t\t\t\t\t\t\tclass=\"am-icon-lock\"></span> Ë¥¶Êà∑ÂÆâÂÖ®</a></li>\r\n\t\t\t\t</ul></li>\r\n\t\t\t<li>\r\n\t\t</ul>\r\n\r\n\t\t<div class=\"am-panel am-panel-default admin-sidebar-panel\">\r\n2write(Ljava/lang/String;)*
+47*Ω
+49V
+ND:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/slidebar.jsp :(ÿ’
+V
+ND:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/slidebar.jsp :(
+%50void")java.io.Writer#write(Ljava/lang/String;)V*$
+"
+outjavax.servlet.jsp.JspWriter*Å
+˛	
+˚	\r\n<div class=\"admin-sidebar am-offcanvas\" id=\"admin-offcanvas\">\r\n\t<div class=\"am-offcanvas-bar admin-offcanvas-bar\">\r\n\t\t<ul class=\"am-list admin-sidebar-list\">\r\n\t\t\t<li><a href=\"user/index\"><span class=\"am-icon-home\"></span>È¶ñÈ°µ</a></li>\r\n\t\t\t<li class=\"admin-parent\"><a class=\"am-cf\"\r\n\t\t\t\tdata-am-collapse=\"{target: '#collapse-nav-public'}\"><span\r\n\t\t\t\t\tclass=\"am-icon-users\"></span> ÂÖ¨ÂÖ±Áü•ËØÜÂ∫ì<span\r\n\t\t\t\t\tclass=\"am-icon-angle-right am-fr am-margin-right\"></span></a>\r\n\t\t\t\t<ul class=\"am-list am-collapse admin-sidebar-sub am-in\"\r\n\t\t\t\t\tid=\"collapse-nav-public\">\r\n\t\t\t\t\t<li><a href=\"user/public/1/1\" class=\"am-cf\"><span\r\n\t\t\t\t\t\t\tclass=\"am-icon-sitemap\"></span> Áü•ËØÜÁΩëÁªú</a></li>\r\n\t\t\t\t\t<li><a href=\"user/mySearch/0/1\"><span\r\n\t\t\t\t\t\t\tclass=\"am-icon-search\"></span> Êô∫ËÉΩÊ£ÄÁ¥¢</a></li>\r\n\t\t\t\t</ul></li>\r\n\r\n\t\t\t<li class=\"admin-parent\"><a class=\"am-cf\"\r\n\t\t\t\tdata-am-collapse=\"{target: '#collapse-nav-person'}\"><span\r\n\t\t\t\t\tclass=\"am-icon-user\"></span> ‰∏™‰∫∫Áü•ËØÜÂ∫ì<span\r\n\t\t\t\t\tclass=\"am-icon-angle-right am-fr am-margin-right\"></span></a>\r\n\t\t\t\t<ul class=\"am-list am-collapse admin-sidebar-sub am-in\"\r\n2write(Ljava/lang/String;)*
+48*ﬁ
+90n
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javaj j(ËÂ
+n
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javaj j(>
+
+%9void"Wjavax.servlet.http.HttpServletResponse#setHeader(Ljava/lang/String;Ljava/lang/String;)V*4
+2
+response&javax.servlet.http.HttpServletResponse*	
+Allow*
+GET, HEAD, POST, OPTIONS2/setHeader(Ljava/lang/String;Ljava/lang/String;)ç
+ä
+n
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javak k(D
+
+%10int"__id*
+""ÚÔ
+o
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javak k(à
+%11void"Fjavax.servlet.http.HttpServletResponse#sendError(ILjava/lang/String;)V*4
+2
+response&javax.servlet.http.HttpServletResponse*
+
+
+%10int*CA
+?JSPs only permit GET, POST or HEAD. Jasper also permits OPTIONS2sendError(ILjava/lang/String;)"x
+n
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javal l(
+""*˚
+91n
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javaiJ i(P˙˜
+n
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javaiJ i(e
+%8boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+HEAD*"
+ 
+_jspx_methodjava.lang.String2equals(Ljava/lang/Object;)*
+90
+89*˚
+92n
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javai* i(0˙˜
+n
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javai* i(E
+%7boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+POST*"
+ 
+_jspx_methodjava.lang.String2equals(Ljava/lang/Object;)*
+91
+89*˙
+93n
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javai i(˘ˆ
+n
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javai i(%
+%6boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+GET*"
+ 
+_jspx_methodjava.lang.String2equals(Ljava/lang/Object;)*
+92
+89*Ÿ
+94n
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javaf f(ËÂ
+n
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javaf f(>
+
+%5void"Wjavax.servlet.http.HttpServletResponse#setHeader(Ljava/lang/String;Ljava/lang/String;)V*4
+2
+response&javax.servlet.http.HttpServletResponse*	
+Allow*
+GET, HEAD, POST, OPTIONS2/setHeader(Ljava/lang/String;Ljava/lang/String;)"x
+n
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javag g(
+""*â
+50U
+KD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/file/myforks.jsp
+ (,•¢
+U
+KD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/file/myforks.jsp
+ (,
+%49void")java.io.Writer#write(Ljava/lang/String;)V*$
+"
+outjavax.servlet.jsp.JspWriter*PN
+L\r\n\t<div class=\"am-cf admin-main\">\r\n\t\t<!-- sidebar start -->\r\n\t\t2write(Ljava/lang/String;)*
+49* 
+95n
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javad, d(3ëé
+n
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javad, d(?
+%3java.lang.String"Cjavax.servlet.http.HttpServletRequest#getMethod()Ljava/lang/String;*2
+0
+request%javax.servlet.http.HttpServletRequest2getMethod()µ
+≤
+n
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javad d(@ 
+_jspx_methodjava.lang.String"__id*
+
+%3java.lang.String˝˙
+n
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javae
+ e((
+%4boolean",java.lang.String#equals(Ljava/lang/Object;)Z*	
+OPTIONS*"
+ 
+_jspx_methodjava.lang.String2equals(Ljava/lang/Object;)*
+93
+94*¸
+51V
+LD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/header.jsp% 0(	óî
+V
+LD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/header.jsp% 0(	
+%48void")java.io.Writer#write(Ljava/lang/String;)V*$
+"
+outjavax.servlet.jsp.JspWriter*¿Ω
+∫\" class=\"am-form-field am-input-sm\"\r\n\t\t\t\tplaceholder=\"ÊêúÁ¥¢ÂÖ¨ÂÖ±Áü•ËØÜÂ∫ì\" ><button type=\"submit\" class=\"am-form-field am-input-sm\"><i class=\"am-icon-search\"></i> ÊêúÁ¥¢</button>\r\n\t\t</div>\r\n\t</form>\r\n<script type=\"text/javascript\">\r\n\t$(function(){\r\n\t\t$.get(\"user/count-msg\",function(data){\r\n\t\t\tvar msgNum = data.data;\r\n\t\t\t$(\"#msg\").text(msgNum);\r\n\t\t});\r\n\t});\r\n</script>\r\n</header>2write(Ljava/lang/String;)*
+50*Ú
+96n
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javac	 c(•
+¢
+n
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javac	 c(+"
+%0javax.servlet.DispatcherType"__id*
+""∞≠
+n
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javac3 c(N"
+%1javax.servlet.DispatcherType"Njavax.servlet.ServletRequest#getDispatcherType()Ljavax/servlet/DispatcherType;*2
+0
+request%javax.servlet.http.HttpServletRequest2getDispatcherType()ñì
+n
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javac	 c(O
+%2boolean"*java.lang.Enum#equals(Ljava/lang/Object;)Z*$
+"
+%0javax.servlet.DispatcherType*$
+"
+%1javax.servlet.DispatcherType2equals(Ljava/lang/Object;)*
+95
+89*‘
+52V
+LD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/header.jsp$ $(`ÔÏ
+V
+LD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/header.jsp$- $(=
+%47void")java.io.Writer#write(Ljava/lang/String;)V*$
+"
+outjavax.servlet.jsp.JspWriter*
+
+%46java.lang.Object2write(Ljava/lang/String;)*
+51*ˇ
+53V
+LD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/header.jsp$ $(`ö
+ó
+V
+LD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/header.jsp$- $(=
+%46java.lang.Object"__mapGet*
+
+%jsp_context*
+file*
+52*Ï
+54V
+LD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/header.jsp (áÑ
+V
+LD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/header.jsp $(`
+%45void")java.io.Writer#write(Ljava/lang/String;)V*$
+"
+outjavax.servlet.jsp.JspWriter*∞≠
+™\r\n\t\t\t\t\t<li><a href=\"logout\"><span class=\"am-icon-power-off\"></span>\r\n\t\t\t\t\t\t\tÈÄÄÂá∫</a></li>\r\n\t\t\t\t</ul></li>\r\n\t\t\t<li class=\"am-hide-sm-only\"></li>\r\n\t\t</ul>\r\n\t</div>\r\n\r\n\t<form action=\"user/search/0/1\" method=\"post\" class=\"am-topbar-form am-topbar-right am-form-inline\"\r\n\t\t>\r\n\t\t<div class=\"am-form-group\">\r\n\t\r\n\t\t\t<input type=\"text\" name=\"fileName\" value=\"2write(Ljava/lang/String;)*
+53*Ú
+55p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javaô ô("z
+p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javaô ô(
+""*Û
+57p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javaò
+ ò(#
+Ì
+p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javaò
+ ò(7
+%44boolean"korg.apache.jsp.WEB_002dINF.jsp.file.myforks_jsp#_jspx_meth_c_005fif_005f0(Ljavax/servlet/jsp/PageContext;)Z*31
+/org.apache.jsp.WEB_002dINF.jsp.file.myforks_jsp*
+
+%jsp_context*5
+3
+_jspx_page_contextjavax.servlet.jsp.PageContext*
+54
+55*ù
+58V
+LD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/header.jsp (1∏µ
+V
+LD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/header.jsp (1
+%43void")java.io.Writer#write(Ljava/lang/String;)V*$
+"
+outjavax.servlet.jsp.JspWriter*·ﬁ
+€ <span class=\"am-icon-caret-down\"></span>\r\n\t\t\t</a>\r\n\t\t\t\t<ul class=\"am-dropdown-content\">\r\n\t\t\t\t\t<li><a href=\"user/userinfo\"><span class=\"am-icon-user\"></span> ‰∏™‰∫∫‰ø°ÊÅØ</a></li>\r\n\t\t\t\t\t2write(Ljava/lang/String;)*
+57*‘
+59V
+LD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/header.jsp (FÔÏ
+V
+LD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/header.jsp (
+%42void")java.io.Writer#write(Ljava/lang/String;)V*$
+"
+outjavax.servlet.jsp.JspWriter*
+
+%41java.lang.Object2write(Ljava/lang/String;)*
+58*Ë
+16p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.java∫ ∫(	ÍÁ
+q
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.java∫ ∫(á
+%75void")java.io.Writer#write(Ljava/lang/String;)V*$
+"
+outjavax.servlet.jsp.JspWriter*yw
+u\t\t\t      $(\"#wait-modal\").modal();\r\n\t\t\t }, 500);\r\n\t\t}\r\n\t    }) \r\n}\r\n\r\n</script>\r\n\r\n</html>2write(Ljava/lang/String;)*
+1*—
+17p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javaπ π(	“œ
+q
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javaπ π(‚	
+%74void")java.io.Writer#write(Ljava/lang/String;)V*$
+"
+outjavax.servlet.jsp.JspWriter*‡	›	
+⁄	$(\"#select\").change(function(){\r\n\t\t\r\n\tvar docId=$(this).val();\r\n\tvar search=window.location.search;\r\n\tvar url;\r\n\tif(search==\"\")\r\n\t{\r\n\t\turl = \"user/myforks/\"+docId+\"/1\";\r\n\t}else{\r\n\t\t\r\n\t\turl = \"user/myforks/\"+docId+\"/1\"+search;\r\n\t}\r\n\twindow.location.href = url;\r\n});\r\nfindDoc('#select');\r\n//Êèê‰∫§‰øÆÊîπ\r\nfunction submit(){\r\n\t\r\n\t\tdocId=$(\"#select1\").val();\r\n\t\tdocName=$(\"#select1 option:selected\").text();\r\n\t\tforkNote=$(\"#cForkNote\").val();\r\n\t\tforkId=$(\"#cForkId\").val();\r\n\t    if(forkNote==\"\")\r\n\t\t{\r\n\t\t\tforkNote=\"Êó†\";\r\n\t\t}\r\n\t\t$.ajax({\r\n\t\turl : \"user/modifyFork\",\r\n\t\tdata:{forkId:forkId,docId:docId,forkNote:forkNote},\r\n\t\ttype : \"post\",\r\n\t\tdatatype : \"json\",\r\n\t\t//ansyn : false,\r\n\t\tsuccess : function(JsonResult) {\r\n\t\t\t/* var len=JsonResult.data.length;\r\n\t\t\tvar docInfos=JsonResult.data; */\r\n\t\t\tvar node=$(\"tr\").find(\"input[value=\"+forkId+\"]\").parent();\r\n\t\t\tnode.find(\"#docName\").text(docName);\r\n\t\t\tnode.find(\"#forkNote\").text(forkNote);\r\n\t\t\t$(\"#wait-model-text\").html(JsonResult.error);\r\n\t\t\t$(\"#wait-modal\").modal();\r\n\t\t\tsetTimeout(function(){\r\n2write(Ljava/lang/String;)*
+16*î
+18p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.java∏ ∏(	ïí
+q
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.java∏ ∏(£	
+%73void")java.io.Writer#write(Ljava/lang/String;)V*$
+"
+outjavax.servlet.jsp.JspWriter*£	†	
+ù	\t}\r\n}\r\n//ÂõûÊòæ\r\n$(\".modify\").click(function(){\r\n\t\r\n\tvar node=$(this).parent().parent().parent().parent();\r\n    var fileName=node.find(\"#fileName\").html();\r\n    $(\"#cFileName\").val(fileName);\r\n    var forkId=node.find(\"#forkId\").val();\r\n    $(\"#cForkId\").val(forkId);\r\n    var forkNote=node.find(\"#forkNote\").html();\r\n    $(\"#cForkNote\").val(forkNote);\r\n    var docName=node.find(\"#docName\").html();\r\n    $(\"#cDocName\").val(docName)\r\n    findDoc('#select1');\r\n    \r\n});\r\n//Âà†Èô§Êî∂Ëóè\r\n$(\".delete\").click(function(){\r\n\tvar node=$(this).parent().parent().parent().parent();\r\n\tvar forkId=node.find(\"#forkId\").val();\r\n\t$.ajax({\r\n\turl : \"user/deleteFork\",\r\n\tdata:{forkId:forkId},\r\n\ttype : \"POST\",\r\n\tdatatype : \"json\",\r\n\t//ansyn : false,\r\n\tsuccess : function(JsonResult) {\r\n\t\t/* var len=JsonResult.data.length;\r\n\t\tvar docInfos=JsonResult.data; */\r\n\t\tnode.remove();\r\n\t\t$(\"#wait-model-text\").html(JsonResult.error);\r\n\t\t$(\"#wait-modal\").modal();\r\n\t\tsetTimeout(function(){\r\n\t\t      $(\"#wait-modal\").modal();\r\n\t\t }, 500);\r\n\t}\r\n    }) \r\n    \r\n});\r\n2write(Ljava/lang/String;)*
+17*˙
+19p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.java∑ ∑(	˚¯
+q
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.java∑ ∑(â
+
+%72void")java.io.Writer#write(Ljava/lang/String;)V*$
+"
+outjavax.servlet.jsp.JspWriter*â
+Ü
+
+É
+\r\nvar docName=$(\"#cDocName\").val();\r\n\r\n$.ajax({\r\n\turl : \"user/findAllByUserId\",\r\n\ttype : \"get\",\r\n\tdatatype : \"json\",\r\n\t//ansyn : false,\r\n\tsuccess : function(JsonResult) {\r\n\t\tvar len=JsonResult.data.length;\r\n\t\tvar docInfos=JsonResult.data;\r\n\t\tvar innerStr=\"\";\r\n\t\tif(selectId=='#select')\r\n\t\t{\r\n\t\t\tinnerStr=\"<option value='-1'>\"+\"ÊâÄÊúâÊî∂Ëóè\" + \"</option>\";\r\n\t\t}\r\n\t\t$(selectId).empty();\r\n\t\tfor(var i=0;i<len;i++)\r\n\t\t{\t\r\n\t\t\tif(docInfos[i].docId==strs[4]&&selectId=='#select'||docName==docInfos[i].docName){\r\n\t\t\t\tinnerStr += \"<option value='\" + docInfos[i].docId+\"' selected='selected'>\"\r\n\t\t\t\t+ docInfos[i].docName + \"</option>\"\r\n\t\t\t}else{\r\n\t\t\t\tinnerStr += \"<option value='\" + docInfos[i].docId\r\n\t\t\t\t+ \"'>\"\r\n\t\t\t\t+ docInfos[i].docName + \"</option>\"\r\n\t\t\t}\r\n\t\t}\r\n\t\t$(selectId).append(innerStr);\r\n\t}\r\n})\r\n}\r\n\r\n//ÁøªÈ°µ\r\nvar url = \"user/myforks/\";\r\nfunction gotoPage(page) {\r\n\t\r\n\tvar search=window.location.search;\r\n\tvar docId=$(\"#select option:selected\").val();\r\n\tif(search==\"\")\r\n\t    window.location.href = url +docId+\"/\"+page;\r\n\telse\r\n\t{\r\n\t\twindow.location.href = url +docId+\"/\"+page+search;\r\n2write(Ljava/lang/String;)*
+18*è
+0 "á
+p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javaÃ Ã(
+implicit return*ê
+1p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.java   (®
+•
+p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.java   (#
+%83javax.servlet.jsp.JspFactory"__id*
+""ËÂ
+p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.java   (9
+%84void"Qjavax.servlet.jsp.JspFactory#releasePageContext(Ljavax/servlet/jsp/PageContext;)V*%
+#
+%83javax.servlet.jsp.JspFactory*5
+3
+_jspx_page_contextjavax.servlet.jsp.PageContext23releasePageContext(Ljavax/servlet/jsp/PageContext;)*
+0*á
+60V
+LD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/header.jsp (F¢
+ü
+V
+LD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/header.jsp (
+%41java.lang.Object"__mapGet*
+
+%jsp_context*
+session_user*
+59*Ú
+61V
+LD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/header.jsp (Fçä
+V
+LD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/header.jsp (F
+%40void")java.io.Writer#write(Ljava/lang/String;)V*$
+"
+outjavax.servlet.jsp.JspWriter*75
+3\" style=\"width:17px;height:17px;\">\r\n\t\t\t\t\t2write(Ljava/lang/String;)*
+60*’
+62W
+LD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/header.jsp (ÜÔÏ
+V
+LD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/header.jspK (d
+%39void")java.io.Writer#write(Ljava/lang/String;)V*$
+"
+outjavax.servlet.jsp.JspWriter*
+
+%38java.lang.Object2write(Ljava/lang/String;)*
+61*à
+63W
+LD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/header.jsp (Ü¢
+ü
+V
+LD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/header.jspK (d
+%38java.lang.Object"__mapGet*
+
+%jsp_context*
+session_user*
+62*∞
+64U
+LD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/header.jsp (ÜÃ…
+U
+LD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/header.jsp (Ü
+%37void")java.io.Writer#write(Ljava/lang/String;)V*$
+"
+outjavax.servlet.jsp.JspWriter*ˆÛ
+\r\n<header class=\"am-topbar am-topbar-inverse admin-header\">\r\n\t<div class=\"am-topbar-brand\">\r\n\t\t<strong>SOKLIB</strong> <small>Áü•ËØÜÂ∫ìÁÆ°ÁêÜÁ≥ªÁªü</small>\r\n\t</div>\r\n\r\n\r\n\r\n\r\n\t<div class=\"am-collapse am-topbar-collapse am-topbar-right\"\r\n\t\tid=\"topbar-collapse\">\r\n\t\t<ul class=\"am-nav am-nav-pills am-topbar-nav  admin-header-list\">\r\n\t\t\t<li><a href=\"user/message/1\"><span class=\"am-icon-envelope-o\"></span>\r\n\t\t\t\t\tÊ∂àÊÅØ <span id =\"msg\" class=\"am-badge am-badge-warning\"></span></a></li>\r\n\t\t\t<li class=\"am-dropdown\" data-am-dropdown><a\r\n\t\t\t\tclass=\"am-dropdown-toggle\" data-am-dropdown-toggle\r\n\t\t\t\thref=\"javascript:;\"> <img alt=\"null\" class=\"am-radius\" src=\"user/photo/2write(Ljava/lang/String;)*
+63*¸
+20p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.java∂ ∂(	˝˙
+q
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.java∂ ∂(˜	
+%71void")java.io.Writer#write(Ljava/lang/String;)V*$
+"
+outjavax.servlet.jsp.JspWriter*ã
+à
+
+Ö
+    \t\t\t})\r\n       },\r\n      onCancel: function(e) {\r\n        //alert('‰∏çÊÉ≥ËØ¥!');\r\n      } \r\n    });\r\n  });\r\n});\r\n//Âà†Èô§Êî∂ËóèÂ§π\r\n$(function() {\r\n\t  $('#doc-prompt-toggle-delete').on('click', function() {\r\n\t\tfindDoc('#dSelect');\r\n\t\t\r\n\t    $('#my-prompt-delete').modal({\r\n\t      relatedTarget: this,\r\n\t      onConfirm: function(e) {\r\n\t    \t  var docId=$(\"#dSelect\").val();\t    \r\n\t    \t\t $.ajax({\r\n\t    \t\t\t\turl : \"user/deleteDoc\",\r\n\t    \t\t\t\tdata:{docId:docId},\r\n\t    \t\t\t\ttype : \"post\",\r\n\t    \t\t\t\tdatatype : \"json\",\r\n\t    \t\t\t\t//ansyn : false,\r\n\t    \t\t\t\tsuccess : function(JsonResult) {\r\n\t    \t\t\t\t\t$(\"#wait-model-text\").html(JsonResult.error);\r\n\t    \t\t\t\t\t$(\"#wait-modal\").modal();\r\n\t    \t\t\t\t\tsetTimeout(function(){\r\n\t    \t\t\t\t\t      //$(\"#wait-modal\").modal();\r\n\t    \t\t\t\t\t      findDoc('#select');\r\n\t    \t\t\t\t\t }, 500);\r\n\t    \t\t\t\t\t\r\n\t    \t\t\t\t}\r\n\t    \t\t\t})\r\n\t      },\r\n\t      onCancel: function(e) {\r\n\t       // alert('‰∏çÊÉ≥ËØ¥!');\r\n\t      } \r\n\t    });\r\n\t  });\r\n\t});\r\n//Êü•ÁúãÊî∂ËóèÂ§π\r\nfunction findDoc(selectId){\r\nvar str=window.location.pathname;\r\nvar strs=str.split(\"/\");\r\n2write(Ljava/lang/String;)*
+19*‘
+65S
+KD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/file/myforks.jsp 
+()ÚÔ
+S
+KD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/file/myforks.jsp 
+()
+%36void")java.io.Writer#write(Ljava/lang/String;)V*$
+"
+outjavax.servlet.jsp.JspWriter*
+\r\n</head>\r\n<body>\r\n\t2write(Ljava/lang/String;)*
+64*±
+21W
+KD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/file/myforks.jsp˘ ˘(À»
+W
+KD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/file/myforks.jspÁ ¿(
+%70void")java.io.Writer#write(Ljava/lang/String;)V*$
+"
+outjavax.servlet.jsp.JspWriter*Û		
+Ì	\r\n\t<!-- content end -->\r\n</body>\r\n<script type=\"text/javascript\">\r\n\r\n//Ê∑ªÂä†Êî∂ËóèÂ§π\r\n$(function() {\r\n  $('#doc-prompt-toggle-add').on('click', function() {\r\n    $('#my-prompt-add').modal({\r\n      \r\n      relatedTarget: this,\r\n      onConfirm: function(e) {\r\n    \t    var docName=$(\"#sDocName\").val();\r\n    \t    if(docName==\"\")\r\n    \t    {\r\n\r\n    \t    \t$(\"#wait-model-text\").html(\"Ê∑ªÂä†Â§±Ë¥•,ÂêçÁß∞‰∏çËÉΩ‰∏∫Á©∫\");\r\n\t\t\t\t$(\"#wait-modal\").modal();\r\n\t\t\t\tsetTimeout(function(){\r\n\t\t\t\t      //$(\"#wait-modal\").modal();\r\n\t\t\t\t      findDoc('#select');\r\n\t\t\t\t }, 500);\r\n    \t    \treturn ;\r\n    \t    }\r\n    \t\t $.ajax({\r\n    \t\t\t\turl : \"user/insertDoc\",\r\n    \t\t\t\tdata:{docName:docName},\r\n    \t\t\t\ttype : \"post\",\r\n    \t\t\t\tdatatype : \"json\",\r\n    \t\t\t\t//ansyn : false,\r\n    \t\t\t\tsuccess : function(JsonResult) {\r\n    \t\t\t\t\t\r\n    \t\t\t\t\t$(\"#wait-model-text\").html(JsonResult.error);\r\n    \t\t\t\t\t$(\"#wait-modal\").modal();\r\n    \t\t\t\t\tsetTimeout(function(){\r\n    \t\t\t\t\t      //$(\"#wait-modal\").modal();\r\n    \t\t\t\t\t      findDoc('#select');\r\n    \t\t\t\t\t }, 500);\r\n    \t\t\t\t\t\r\n    \t\t\t\t}\r\n2write(Ljava/lang/String;)*
+20*Á
+66R
+JD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/head.jsp* /(IÜÉ
+R
+JD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/head.jsp* /(I
+%35void")java.io.Writer#write(Ljava/lang/String;)V*$
+"
+outjavax.servlet.jsp.JspWriter*≥∞
+≠\r\n<script src=\"resource/amazeui/js/jquery.cookie.min.js\"></script>\r\n\r\n<script src=\"resource/amazeui/js/amazeui.min.js\"></script>\n<script type=\"text/javascript\" src=\"resource/script/common.js\"></script>\r\n<script type=\"text/javascript\" src=\"resource/amazeui/js/app.js\"></script>\r\n2write(Ljava/lang/String;)*
+65*’
+22T
+LD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/footer.jsp (ÚÔ
+T
+LD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/footer.jsp (
+%69void")java.io.Writer#write(Ljava/lang/String;)V*$
+"
+outjavax.servlet.jsp.JspWriter*ùö
+ó\r\n<!-- \r\n<footer class=\"admin-content-footer\">\r\n\t<hr>\r\n\t<p>¬© 2016 ‰∏≠ÂõΩËΩØ‰ª∂ÊùØ Áü•ËØÜÂ∫ìÁÆ°ÁêÜÁ≥ªÁªü ÂêØËà™Èòü</p>\r\n</footer>\r\n -->2write(Ljava/lang/String;)*
+21*õ
+67p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javaê ê(	úô
+q
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.javaê ê(∂
+%34void")java.io.Writer#write(Ljava/lang/String;)V*$
+"
+outjavax.servlet.jsp.JspWriter*™ß
+§<meta name=\"msapplication-TileImage\"\r\n\tcontent=\"resource/amazeui/i/app-icon72x72@2x.png\">\r\n<meta name=\"msapplication-TileColor\" content=\"#0e90d2\">\r\n\r\n<!-- SEO: If your mobile URL is different from the desktop URL, add a canonical link to the desktop page https://developers.google.com/webmasters/smartphone-sites/feature-phones -->\r\n<!--\r\n  <link rel=\"canonical\" href=\"http://www.example.com/\">\r\n  -->\r\n\r\n<link rel=\"stylesheet\" href=\"resource/amazeui/css/amazeui.min.css\">\r\n<link rel=\"stylesheet\" href=\"resource/amazeui/css/admin.css\">\r\n\r\n<script type=\"text/javascript\" src=\"resource/amazeui/js/jquery.min.js\"></script>\r\n\r\n2write(Ljava/lang/String;)*
+66*Ê
+23p
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.java≥ ≥(	Á‰
+q
+dD:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\file\myforks_jsp.java≥ ≥(Ñ
+%68void")java.io.Writer#write(Ljava/lang/String;)V*$
+"
+outjavax.servlet.jsp.JspWriter*vt
+r\t\t\t\t<span class=\"am-icon-spinner am-icon-spin\"></span>\r\n\t\t\t</div>\r\n\t\t</div>\r\n\t</div>\r\n\t\r\n\t2write(Ljava/lang/String;)*
+22:
+%jsp_context:0
+request%javax.servlet.http.HttpServletRequest:2
+response&javax.servlet.http.HttpServletResponseB31
+/org.apache.jsp.WEB_002dINF.jsp.file.myforks_jsp

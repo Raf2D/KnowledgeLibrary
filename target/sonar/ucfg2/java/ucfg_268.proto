@@ -1,0 +1,195 @@
+
+Scom.lib.utils.FileUtil#readText(Ljava/io/File;Ljava/lang/String;)Ljava/lang/String;T
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/FileUtil.javaƒ ƒ("14*¿
+13T
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/FileUtil.java   (!ëé
+T
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/FileUtil.java   (
+%0java.io.FileInputStream"java.io.FileInputStream…
+∆
+T
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/FileUtil.java 	  ("
+%1"/java.io.FileInputStream#<init>(Ljava/io/File;)V*
+
+%0java.io.FileInputStream*
+
+filejava.io.File*
+12*ã
+14T
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/FileUtil.java≈ ≈(á
+Ñ
+T
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/FileUtil.java≈ ≈(
+fisjava.io.FileInputStream"__id*
+""Ü
+É
+T
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/FileUtil.java∆ ∆(
+injava.io.DataInputStream"__id*
+""â
+Ü
+T
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/FileUtil.java« «( 
+inrjava.io.InputStreamReader"__id*
+""â
+Ü
+T
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/FileUtil.java» »( 
+readerjava.io.BufferedReader"__id*
+""*
+13*Ã
+2T
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/FileUtil.java‘ ‘("q
+T
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/FileUtil.java‘ ‘(
+
+%13java.lang.String*∂
+3T
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/FileUtil.java‘
+ ‘(’“
+T
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/FileUtil.java‘
+ ‘(
+%13java.lang.String"3java.lang.StringBuffer#toString()Ljava/lang/String;* 
+
+textjava.lang.StringBuffer2
+toString()*
+2*Ï
+4T
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/FileUtil.java“ “(ãà
+T
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/FileUtil.java“ “(
+%12java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;* 
+
+textjava.lang.StringBuffer*
+\r\n2append(Ljava/lang/String;)*
+7*Ñ
+5T
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/FileUtil.java— —(£†
+T
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/FileUtil.java— —(
+%11java.lang.StringBuffer"Ijava.lang.StringBuffer#append(Ljava/lang/String;)Ljava/lang/StringBuffer;* 
+
+textjava.lang.StringBuffer* 
+
+
+tempStringjava.lang.String2append(Ljava/lang/String;)*
+4*˛
+6T
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/FileUtil.java– –()ö
+ó
+T
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/FileUtil.java– –()
+
+tempStringjava.lang.String"__id*
+
+%10java.lang.String*
+3
+5*∏
+7T
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/FileUtil.java– –(◊‘
+T
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/FileUtil.java– –()
+%10java.lang.String"3java.io.BufferedReader#readLine()Ljava/lang/String;*"
+ 
+readerjava.io.BufferedReader2
+readLine()*
+6*ä
+8T
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/FileUtil.javaŒ Œ(*ü
+ú
+T
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/FileUtil.javaŒ Œ(*
+textjava.lang.StringBuffer"__id*
+
+%8java.lang.StringBufferá
+Ñ
+T
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/FileUtil.javaœ œ(
+
+tempStringjava.lang.String"__id*
+""*
+7*∏
+9T
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/FileUtil.javaÕ Õ(#°
+û
+T
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/FileUtil.javaÕ Õ(# 
+readerjava.io.BufferedReader"__id*
+
+%6java.io.BufferedReaderèå
+T
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/FileUtil.javaŒ Œ('
+%8java.lang.StringBuffer"java.lang.StringBuffer°
+û
+T
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/FileUtil.javaŒ Œ()
+%9" java.lang.StringBuffer#<init>()V*
+
+%8java.lang.StringBuffer*
+8*
+10T
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/FileUtil.javaÃ Ã(+§
+°
+T
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/FileUtil.javaÃ Ã(+ 
+inrjava.io.InputStreamReader"__id*!
+
+%4java.io.InputStreamReaderèå
+T
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/FileUtil.javaÕ Õ(
+%6java.io.BufferedReader"java.io.BufferedReader’
+“
+T
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/FileUtil.javaÕ Õ(#
+%7"0java.io.BufferedReader#<init>(Ljava/io/Reader;)V*
+
+%6java.io.BufferedReader*"
+ 
+inrjava.io.InputStreamReader*
+9*´
+11T
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/FileUtil.javaÀ À( ü
+ú
+T
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/FileUtil.javaÀ À( 
+injava.io.DataInputStream"__id*
+
+%2java.io.DataInputStreamïí
+T
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/FileUtil.javaÃ Ã(
+%4java.io.InputStreamReader"java.io.InputStreamReaderé
+ã
+T
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/FileUtil.javaÃ	 Ã(+
+%5"Jjava.io.InputStreamReader#<init>(Ljava/io/InputStream;Ljava/lang/String;)V*!
+
+%4java.io.InputStreamReader*
+
+injava.io.DataInputStream*
+
+charsetjava.lang.String*
+10*Ù
+12T
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/FileUtil.java   ("†
+ù
+T
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/FileUtil.java   ("
+fisjava.io.FileInputStream"__id*
+
+%0java.io.FileInputStreamëé
+T
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/FileUtil.javaÀ À(
+%2java.io.DataInputStream"java.io.DataInputStream⁄
+◊
+T
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/FileUtil.javaÀ À( 
+%3"6java.io.DataInputStream#<init>(Ljava/io/InputStream;)V*
+
+%2java.io.DataInputStream* 
+
+fisjava.io.FileInputStream*
+11:
+filejava.io.File:
+charsetjava.lang.StringB"
+com.lib.utils.FileUtil

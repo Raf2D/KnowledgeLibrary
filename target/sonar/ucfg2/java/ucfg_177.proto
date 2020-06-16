@@ -1,0 +1,17 @@
+
+7com.lib.entity.FileInfo#getFileUserId()Ljava/lang/Long;S
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.java8 8("1*ë
+1S
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.java9	 9(¡
+ž
+S
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.java9	 9(
+%0java.lang.Long"__id*+*)
+com.lib.entity.FileInfo"
+
+fileUserId"m
+S
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.java9 9(
+
+%0java.lang.LongB
+com.lib.entity.FileInfo

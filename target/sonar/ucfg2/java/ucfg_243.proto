@@ -1,0 +1,94 @@
+
+6com.lib.dto.FileScoreInfo#toString()Ljava/lang/String;U
+KD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/FileScoreInfo.java- -("1*π
+1U
+KD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/FileScoreInfo.java.	 .(!°
+û
+U
+KD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/FileScoreInfo.java.$ .(*
+%0java.lang.Long"__id*)*'
+com.lib.dto.FileScoreInfo"
+userId∞
+≠
+U
+KD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/FileScoreInfo.java.	 .(*
+%1java.lang.String"__concat*
+FileScoreInfo [userId=*
+
+%0java.lang.Long•
+¢
+U
+KD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/FileScoreInfo.java.	 .(8
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+	, fileId=°
+û
+U
+KD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/FileScoreInfo.java.; .(A
+%3java.lang.Long"__id*)*'
+com.lib.dto.FileScoreInfo"
+fileIdÆ
+´
+U
+KD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/FileScoreInfo.java.	 .(A
+%4java.lang.String"__concat*
+
+%2java.lang.String*
+
+%3java.lang.Long§
+°
+U
+KD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/FileScoreInfo.java.	 .(N
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+
+, score=†
+ù
+U
+KD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/FileScoreInfo.java.Q .(V
+%6java.lang.Long"__id*(*&
+com.lib.dto.FileScoreInfo"
+scoreÆ
+´
+U
+KD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/FileScoreInfo.java.	 .(V
+%7java.lang.String"__concat*
+
+%5java.lang.String*
+
+%6java.lang.Long£
+†
+U
+KD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/FileScoreInfo.java.	 .(b
+%8java.lang.String"__concat*
+
+%7java.lang.String*	
+, time=ü
+ú
+U
+KD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/FileScoreInfo.java.e .(i
+%9java.util.Date"__id*'*%
+com.lib.dto.FileScoreInfo"
+timeØ
+¨
+U
+KD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/FileScoreInfo.java.	 .(i
+%10java.lang.String"__concat*
+
+%8java.lang.String*
+
+%9java.util.Dateü
+ú
+U
+KD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/FileScoreInfo.java.	 .(o
+%11java.lang.String"__concat*
+
+%10java.lang.String*
+]"r
+U
+KD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/FileScoreInfo.java. .(p
+
+%11java.lang.StringB
+com.lib.dto.FileScoreInfo

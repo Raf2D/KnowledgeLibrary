@@ -1,0 +1,93 @@
+
+±com.lib.utils.LuceneSearchUtil#displayHtmlHighlight(Lorg/apache/lucene/search/Query;Lorg/apache/lucene/analysis/Analyzer;Ljava/lang/String;Ljava/lang/String;I)Ljava/lang/String;\
+PD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/LuceneSearchUtil.javaà à(#"1*≥
+1\
+PD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/LuceneSearchUtil.javaãD ã(Y◊‘
+\
+PD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/LuceneSearchUtil.javaã0 ã(C<
+%06org.apache.lucene.search.highlight.SimpleHTMLFormatter"6org.apache.lucene.search.highlight.SimpleHTMLFormatter≥
+∞
+\
+PD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/LuceneSearchUtil.javaã, ã(e
+%1"dorg.apache.lucene.search.highlight.SimpleHTMLFormatter#<init>(Ljava/lang/String;Ljava/lang/String;)V*>
+<
+%06org.apache.lucene.search.highlight.SimpleHTMLFormatter*
+<font color='#c00'>*	
+</font>«ƒ
+\
+PD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/LuceneSearchUtil.javaå å(4
+%2.org.apache.lucene.search.highlight.QueryScorer".org.apache.lucene.search.highlight.QueryScorer§
+°
+\
+PD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/LuceneSearchUtil.javaå å(
+%3"Xorg.apache.lucene.search.highlight.QueryScorer#<init>(Lorg/apache/lucene/search/Query;)V*6
+4
+%2.org.apache.lucene.search.highlight.QueryScorer*)
+'
+queryorg.apache.lucene.search.Query«ƒ
+\
+PD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/LuceneSearchUtil.javaã  ã(+4
+%4.org.apache.lucene.search.highlight.Highlighter".org.apache.lucene.search.highlight.Highlighter´
+®
+\
+PD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/LuceneSearchUtil.javaã å(
+%5"ëorg.apache.lucene.search.highlight.Highlighter#<init>(Lorg/apache/lucene/search/highlight/Formatter;Lorg/apache/lucene/search/highlight/Scorer;)V*6
+4
+%4.org.apache.lucene.search.highlight.Highlighter*>
+<
+%06org.apache.lucene.search.highlight.SimpleHTMLFormatter*6
+4
+%2.org.apache.lucene.search.highlight.QueryScorerﬁ
+€
+\
+PD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/LuceneSearchUtil.javaã å(=
+highlighter.org.apache.lucene.search.highlight.Highlighter"__id*6
+4
+%4.org.apache.lucene.search.highlight.Highlighter—Œ
+\
+PD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/LuceneSearchUtil.javaç ç(.9
+%63org.apache.lucene.search.highlight.SimpleFragmenter"3org.apache.lucene.search.highlight.SimpleFragmenterÏ
+È
+\
+PD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/LuceneSearchUtil.javaç ç(<
+%7">org.apache.lucene.search.highlight.SimpleFragmenter#<init>(I)V*;
+9
+%63org.apache.lucene.search.highlight.SimpleFragmenter*
+""·
+ﬁ
+\
+PD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/LuceneSearchUtil.javaç ç(=;
+
+fragmenter-org.apache.lucene.search.highlight.Fragmenter"__id*;
+9
+%63org.apache.lucene.search.highlight.SimpleFragmenter•¢
+\
+PD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/LuceneSearchUtil.javaé é(+
+
+%8void"rorg.apache.lucene.search.highlight.Highlighter#setTextFragmenter(Lorg/apache/lucene/search/highlight/Fragmenter;)V*?
+=
+highlighter.org.apache.lucene.search.highlight.Highlighter*=
+;
+
+fragmenter-org.apache.lucene.search.highlight.Fragmenter2BsetTextFragmenter(Lorg/apache/lucene/search/highlight/Fragmenter;)¨©
+\
+PD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/LuceneSearchUtil.javaè	 è(G
+%9java.lang.String"õorg.apache.lucene.search.highlight.Highlighter#getBestFragment(Lorg/apache/lucene/analysis/Analyzer;Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;*?
+=
+highlighter.org.apache.lucene.search.highlight.Highlighter*1
+/
+analyzer#org.apache.lucene.analysis.Analyzer*
+
+	fieldNamejava.lang.String*"
+ 
+fieldContentjava.lang.String2ZgetBestFragment(Lorg/apache/lucene/analysis/Analyzer;Ljava/lang/String;Ljava/lang/String;)"x
+\
+PD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/LuceneSearchUtil.javaè è(H
+
+%9java.lang.String:'
+queryorg.apache.lucene.search.Query:/
+analyzer#org.apache.lucene.analysis.Analyzer:
+	fieldNamejava.lang.String: 
+fieldContentjava.lang.String:
+""B"" 
+com.lib.utils.LuceneSearchUtil

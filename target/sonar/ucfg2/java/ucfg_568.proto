@@ -1,0 +1,51 @@
+
+Ccom.lib.enums.FileStateEnum#stateOf(I)Lcom/lib/enums/FileStateEnum;W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/enums/FileStateEnum.java!  !('"5*∑
+2W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/enums/FileStateEnum.java" "( ê
+ç
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/enums/FileStateEnum.java" "( $
+statecom.lib.enums.FileStateEnum"__id*
+""Ω
+∫
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/enums/FileStateEnum.java" "( $
+statecom.lib.enums.FileStateEnum"
+__arrayGet*%
+#
+%0com.lib.enums.FileStateEnum[]*
+""*
+4
+1*‡
+3W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/enums/FileStateEnum.java$ $("Å
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/enums/FileStateEnum.java$ $(&
+$
+statecom.lib.enums.FileStateEnum*´
+4W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/enums/FileStateEnum.java# #(ƒ¡
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/enums/FileStateEnum.java# #( 	
+%1int"'com.lib.enums.FileStateEnum#getState()I*&
+$
+statecom.lib.enums.FileStateEnum2
+getState()*
+2
+3* 
+5W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/enums/FileStateEnum.java"# "()Ê
+„
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/enums/FileStateEnum.java"# "(+#
+%0com.lib.enums.FileStateEnum[]"Bcom.lib.enums.FileStateEnum#values()[Lcom/lib/enums/FileStateEnum;*"
+com.lib.enums.FileStateEnum*
+2*ø
+1W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/enums/FileStateEnum.java' '("a
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/enums/FileStateEnum.java' '(
+"":
+""B"
+com.lib.enums.FileStateEnum

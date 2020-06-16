@@ -1,0 +1,34 @@
+
+Pcom.lib.web.user.main.LoginAndRegisterController#test()Lcom/lib/entity/UserInfo;l
+bD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/LoginAndRegisterController.java~ ~(#"1*†	
+1l
+bD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/LoginAndRegisterController.java (Ê
+„
+l
+bD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/LoginAndRegisterController.java (&
+%0 com.lib.service.user.UserService"__id*E*C2
+0com.lib.web.user.main.LoginAndRegisterController"
+userServiceúô
+l
+bD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/LoginAndRegisterController.java (3
+%1com.lib.entity.UserInfo"Hcom.lib.service.user.UserService#getUserById(J)Lcom/lib/entity/UserInfo;*(
+&
+%0 com.lib.service.user.UserService*
+""2getUserById(J)π
+∂
+l
+bD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/LoginAndRegisterController.java (4
+usercom.lib.entity.UserInfo"__id*
+
+%1com.lib.entity.UserInfo“
+œ
+n
+bD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/LoginAndRegisterController.javaÅ Å(
+%2"4org.springframework.web.bind.annotation.ResponseBody*!
+
+usercom.lib.entity.UserInfo"ì
+n
+bD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/LoginAndRegisterController.javaÅ Å(!
+
+usercom.lib.entity.UserInfoB42
+0com.lib.web.user.main.LoginAndRegisterController

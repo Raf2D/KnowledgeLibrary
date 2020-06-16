@@ -1,0 +1,96 @@
+
+0com.lib.dto.FileNew#toString()Ljava/lang/String;O
+ED:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/FileNew.java0 0("1*◊
+1O
+ED:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/FileNew.java1	 1(ï
+í
+O
+ED:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/FileNew.java1 1( 
+%0java.lang.String"__id*!*
+com.lib.dto.FileNew"
+name§
+°
+O
+ED:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/FileNew.java1	 1( 
+%1java.lang.String"__concat*
+FileNew [name=*
+
+%0java.lang.String†
+ù
+O
+ED:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/FileNew.java1	 1(/
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+
+, content=ò
+ï
+O
+ED:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/FileNew.java12 1(9
+%3java.lang.String"__id*$*"
+com.lib.dto.FileNew"	
+content™
+ß
+O
+ED:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/FileNew.java1	 1(9
+%4java.lang.String"__concat*
+
+%2java.lang.String*
+
+%3java.lang.Stringû
+õ
+O
+ED:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/FileNew.java1	 1(F
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+
+, brief=ñ
+ì
+O
+ED:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/FileNew.java1I 1(N
+%6java.lang.String"__id*"* 
+com.lib.dto.FileNew"
+brief™
+ß
+O
+ED:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/FileNew.java1	 1(N
+%7java.lang.String"__concat*
+
+%5java.lang.String*
+
+%6java.lang.String†
+ù
+O
+ED:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/FileNew.java1	 1(]
+%8java.lang.String"__concat*
+
+%7java.lang.String*
+
+, classId=ñ
+ì
+O
+ED:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/FileNew.java1` 1(g
+%9java.lang.Long"__id*$*"
+com.lib.dto.FileNew"	
+classId©
+¶
+O
+ED:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/FileNew.java1	 1(g
+%10java.lang.String"__concat*
+
+%8java.lang.String*
+
+%9java.lang.Longô
+ñ
+O
+ED:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/FileNew.java1	 1(m
+%11java.lang.String"__concat*
+
+%10java.lang.String*
+]"l
+O
+ED:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/FileNew.java1 1(n
+
+%11java.lang.StringB
+com.lib.dto.FileNew

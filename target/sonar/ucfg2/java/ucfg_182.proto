@@ -1,0 +1,16 @@
+
+;com.lib.entity.FileInfo#getFileCreateTime()Ljava/util/Date;S
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.javaL L("1*ï
+1S
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.javaM	 M(¥
+¢
+S
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.javaM	 M(
+%0java.util.Date"__id*/*-
+com.lib.entity.FileInfo"
+fileCreateTime"m
+S
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.javaM M(
+
+%0java.util.DateB
+com.lib.entity.FileInfo

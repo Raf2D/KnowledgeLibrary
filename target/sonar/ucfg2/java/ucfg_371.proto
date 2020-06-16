@@ -1,0 +1,16 @@
+
+4com.lib.dto.ClickInfo#getClickTime()Ljava/util/Date;Q
+GD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/ClickInfo.javaM M("1*â
+1Q
+GD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/ClickInfo.javaN	 N(œ
+™
+Q
+GD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/ClickInfo.javaN	 N(
+%0java.util.Date"__id*(*&
+com.lib.dto.ClickInfo"
+	clickTime"k
+Q
+GD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/ClickInfo.javaN N(
+
+%0java.util.DateB
+com.lib.dto.ClickInfo

@@ -1,0 +1,381 @@
+
+Öorg.apache.jsp.WEB_002dINF.jsp.test_jsp#_jspService(Ljavax/servlet/http/HttpServletRequest;Ljavax/servlet/http/HttpServletResponse;)Vf
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.javaZ Z("47*™
+46f
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.java^, ^(3âÜ
+f
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.java^, ^(?
+%3java.lang.String"Cjavax.servlet.http.HttpServletRequest#getMethod()Ljava/lang/String;*2
+0
+request%javax.servlet.http.HttpServletRequest2getMethod()≠
+™
+f
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.java^ ^(@ 
+_jspx_methodjava.lang.String"__id*
+
+%3java.lang.StringıÚ
+f
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.java_
+ _((
+%4boolean",java.lang.String#equals(Ljava/lang/Object;)Z*	
+OPTIONS*"
+ 
+_jspx_methodjava.lang.String2equals(Ljava/lang/Object;)*
+44
+45*√
+24h
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.javaÜ Ü(	Ã…
+h
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.javaÜ Ü(
+%28void"java.io.Writer#write(I)V*$
+"
+outjavax.servlet.jsp.JspWriter*
+""2write(I)*
+22*“
+47f
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.java]	 ](ù
+ö
+f
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.java]	 ](+"
+%0javax.servlet.DispatcherType"__id*
+""®•
+f
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.java]3 ](N"
+%1javax.servlet.DispatcherType"Njavax.servlet.ServletRequest#getDispatcherType()Ljavax/servlet/DispatcherType;*2
+0
+request%javax.servlet.http.HttpServletRequest2getDispatcherType()éã
+f
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.java]	 ](O
+%2boolean"*java.lang.Enum#equals(Ljava/lang/Object;)Z*$
+"
+%0javax.servlet.DispatcherType*$
+"
+%1javax.servlet.DispatcherType2equals(Ljava/lang/Object;)*
+46
+40*œ
+25S
+JD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/head.jsp (ñÌÍ
+T
+JD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/head.jsp, (N
+%27void")java.io.Writer#write(Ljava/lang/String;)V*$
+"
+outjavax.servlet.jsp.JspWriter*
+
+%26java.lang.Object2write(Ljava/lang/String;)*
+24*√
+27h
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.javaÑ Ñ(	Ã…
+h
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.javaÑ Ñ(
+%25void"java.io.Writer#write(I)V*$
+"
+outjavax.servlet.jsp.JspWriter*
+""2write(I)*
+25*√
+28h
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.javaÉ É(	Ã…
+h
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.javaÉ É(
+%24void"java.io.Writer#write(I)V*$
+"
+outjavax.servlet.jsp.JspWriter*
+""2write(I)*
+27*√
+29h
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.javaÇ Ç(	Ã…
+h
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.javaÇ Ç(
+%23void"java.io.Writer#write(I)V*$
+"
+outjavax.servlet.jsp.JspWriter*
+""2write(I)*
+28*œ
+30S
+JD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/head.jsp (ñÌÍ
+T
+JD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/head.jsp ()
+%22void")java.io.Writer#write(Ljava/lang/String;)V*$
+"
+outjavax.servlet.jsp.JspWriter*
+
+%21java.lang.Object2write(Ljava/lang/String;)*
+29*÷
+32S
+JD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/head.jsp (ñÙÒ
+S
+JD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/head.jsp (ñ
+%20void")java.io.Writer#write(Ljava/lang/String;)V*$
+"
+outjavax.servlet.jsp.JspWriter*!
+\r\n\r\n\r\n\r\n<base href=\"2write(Ljava/lang/String;)*
+30*ä
+33f
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.java| |( ª
+∏
+f
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.java| |( "
+outjavax.servlet.jsp.JspWriter"__id*$
+"
+%18javax.servlet.jsp.JspWriter¡
+æ
+f
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.java} }((
+	_jspx_outjavax.servlet.jsp.JspWriter"__id*$
+"
+outjavax.servlet.jsp.JspWriterìê
+M
+CD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/test.jsp (#
+%19void")java.io.Writer#write(Ljava/lang/String;)V*$
+"
+outjavax.servlet.jsp.JspWriter*FD
+B\r\n<!DOCTYPE html>\r\n<html>\r\n<head>\r\n<title>test</title>\r\n2write(Ljava/lang/String;)*
+32*Ç
+34f
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.java{ {((çä
+f
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.java| |( "
+%18javax.servlet.jsp.JspWriter"Bjavax.servlet.jsp.JspContext#getOut()Ljavax/servlet/jsp/JspWriter;*.
+,
+pageContextjavax.servlet.jsp.PageContext2getOut()*
+33*ë
+35f
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.javaz z(-úô
+f
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.java{ {((%
+%17javax.servlet.http.HttpSession"Jjavax.servlet.jsp.PageContext#getSession()Ljavax/servlet/http/HttpSession;*.
+,
+pageContextjavax.servlet.jsp.PageContext2getSession()*
+34*ó
+36f
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.javay y(3¢ü
+f
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.javaz z(-"
+%16javax.servlet.ServletConfig"Mjavax.servlet.jsp.PageContext#getServletConfig()Ljavax/servlet/ServletConfig;*.
+,
+pageContextjavax.servlet.jsp.PageContext2getServletConfig()*
+35*æ
+37f
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.javav w( «
+ƒ
+f
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.javav w( ,
+pageContextjavax.servlet.jsp.PageContext"__id*&
+$
+%14javax.servlet.jsp.PageContext÷
+”
+f
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.javax x(&3
+_jspx_page_contextjavax.servlet.jsp.PageContext"__id*.
+,
+pageContextjavax.servlet.jsp.PageContext¶£
+f
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.javay y(3#
+%15javax.servlet.ServletContext"Ojavax.servlet.jsp.PageContext#getServletContext()Ljavax/servlet/ServletContext;*.
+,
+pageContextjavax.servlet.jsp.PageContext2getServletContext()*
+36*∑
+38f
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.javav v( û
+õ
+f
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.javav v( #
+%13javax.servlet.jsp.JspFactory"__id*
+""°û
+f
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.javav w( $
+%14javax.servlet.jsp.PageContext"µjavax.servlet.jsp.JspFactory#getPageContext(Ljavax/servlet/Servlet;Ljavax/servlet/ServletRequest;Ljavax/servlet/ServletResponse;Ljava/lang/String;ZIZ)Ljavax/servlet/jsp/PageContext;*%
+#
+%13javax.servlet.jsp.JspFactory*+)
+'org.apache.jsp.WEB_002dINF.jsp.test_jsp*2
+0
+request%javax.servlet.http.HttpServletRequest*4
+2
+response&javax.servlet.http.HttpServletResponse*
+""*
+""*2Ä@*
+""2ygetPageContext(Ljavax/servlet/Servlet;Ljavax/servlet/ServletRequest;Ljavax/servlet/ServletResponse;Ljava/lang/String;ZIZ)*
+37*‹
+16K
+CD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/test.jsp (ÉÄ
+K
+CD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/test.jsp (
+%36void")java.io.Writer#write(Ljava/lang/String;)V*$
+"
+outjavax.servlet.jsp.JspWriter*∑¥
+±\r\n</head>\r\n<body>\r\n\t<button id=\"btn\">ÁÇπÊàë</button>\r\n \t<a herf=\"admin/lucene\">Âª∫Á¥¢Âºï</a>\r\n</body>\r\n<script type=\"text/javascript\">\r\n\t$(function(){\r\n\t\t$(\"#btn\").click(function(){\r\n\t\t\tvar url = \"admin/recommend\";\r\n\t\t\tvar args = {\"userId\":\"2016014\"};\r\n\t\t\t$.post(url,args,function(data){\r\n\t\t\t\tconsole.log(data.data);\r\n\t\t\t});\r\n\t\t});\r\n\t});\r\n</script>\r\n</html>\r\n2write(Ljava/lang/String;)*
+1*®
+39f
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.javau u(≥∞
+f
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.javau u(9
+%12void"Ajavax.servlet.ServletResponse#setContentType(Ljava/lang/String;)V*4
+2
+response&javax.servlet.http.HttpServletResponse*
+text/html; charset=UTF-82"setContentType(Ljava/lang/String;)*
+38*Á
+17R
+JD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/head.jsp* /(IÜÉ
+R
+JD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/head.jsp* /(I
+%35void")java.io.Writer#write(Ljava/lang/String;)V*$
+"
+outjavax.servlet.jsp.JspWriter*≥∞
+≠\r\n<script src=\"resource/amazeui/js/jquery.cookie.min.js\"></script>\r\n\r\n<script src=\"resource/amazeui/js/amazeui.min.js\"></script>\n<script type=\"text/javascript\" src=\"resource/script/common.js\"></script>\r\n<script type=\"text/javascript\" src=\"resource/amazeui/js/app.js\"></script>\r\n2write(Ljava/lang/String;)*
+16*ã
+18h
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.javaä ä(	îë
+i
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.javaä ä(∂
+%34void")java.io.Writer#write(Ljava/lang/String;)V*$
+"
+outjavax.servlet.jsp.JspWriter*™ß
+§<meta name=\"msapplication-TileImage\"\r\n\tcontent=\"resource/amazeui/i/app-icon72x72@2x.png\">\r\n<meta name=\"msapplication-TileColor\" content=\"#0e90d2\">\r\n\r\n<!-- SEO: If your mobile URL is different from the desktop URL, add a canonical link to the desktop page https://developers.google.com/webmasters/smartphone-sites/feature-phones -->\r\n<!--\r\n  <link rel=\"canonical\" href=\"http://www.example.com/\">\r\n  -->\r\n\r\n<link rel=\"stylesheet\" href=\"resource/amazeui/css/amazeui.min.css\">\r\n<link rel=\"stylesheet\" href=\"resource/amazeui/css/admin.css\">\r\n\r\n<script type=\"text/javascript\" src=\"resource/amazeui/js/jquery.min.js\"></script>\r\n\r\n2write(Ljava/lang/String;)*
+17*Ã
+19R
+JD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/head.jsp *(Î
+Ë
+
+R
+JD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/head.jsp *(
+%33void")java.io.Writer#write(Ljava/lang/String;)V*$
+"
+outjavax.servlet.jsp.JspWriter*ò	ï	
+í	/\">\r\n<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\">\r\n<meta charset=\"utf-8\">\r\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\r\n<meta name=\"description\" content=\"\">\r\n<meta name=\"keywords\" content=\"\">\r\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\r\n<!-- Set render engine for 360 browser -->\r\n<meta name=\"renderer\" content=\"webkit\">\r\n<title>Áü•ËØÜÂ∫ìÁÆ°ÁêÜÁ≥ªÁªü</title>\r\n<!-- No Baidu Siteapp-->\r\n<meta http-equiv=\"Cache-Control\" content=\"no-siteapp\" />\r\n<link rel=\"icon\" type=\"image/png\" href=\"resource/image/bitbug_favicon_3.ico\">\r\n<!-- Add to homescreen for Chrome on Android -->\r\n<meta name=\"mobile-web-app-capable\" content=\"yes\">\r\n<!-- Add to homescreen for Safari on iOS -->\r\n<meta name=\"apple-mobile-web-app-capable\" content=\"yes\">\r\n<meta name=\"apple-mobile-web-app-status-bar-style\" content=\"black\">\r\n<meta name=\"apple-mobile-web-app-title\" content=\"Amaze UI\" />\r\n<link rel=\"apple-touch-icon-precomposed\"\r\n\thref=\"resource/amazeui/i/app-icon72x72@2x.png\">\r\n\r\n<!-- Tile icon for Win8 (144x144 + tile color) -->\r\n2write(Ljava/lang/String;)*
+18*Ü
+0 "
+h
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.javaû û(
+implicit return*¯
+1h
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.javaú ú(†
+ù
+h
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.javaú ú(#
+%44javax.servlet.jsp.JspFactory"__id*
+""‡›
+h
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.javaú ú(9
+%45void"Qjavax.servlet.jsp.JspFactory#releasePageContext(Ljavax/servlet/jsp/PageContext;)V*%
+#
+%44javax.servlet.jsp.JspFactory*5
+3
+_jspx_page_contextjavax.servlet.jsp.PageContext23releasePageContext(Ljavax/servlet/jsp/PageContext;)*
+0*ì
+40f
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.javaj j(4ß
+§
+f
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.javaj j(4,
+pageContextjavax.servlet.jsp.PageContext"__id*
+""ù
+ö
+f
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.javan n(+"
+outjavax.servlet.jsp.JspWriter"__id*
+""£
+†
+f
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.javap p(1(
+	_jspx_outjavax.servlet.jsp.JspWriter"__id*
+""Æ
+´
+f
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.javaq q(<3
+_jspx_page_contextjavax.servlet.jsp.PageContext"__id*
+""*
+39*∂
+41f
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.javad d(‡›
+f
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.javad d(>
+
+%9void"Wjavax.servlet.http.HttpServletResponse#setHeader(Ljava/lang/String;Ljava/lang/String;)V*4
+2
+response&javax.servlet.http.HttpServletResponse*	
+Allow*
+GET, HEAD, POST, OPTIONS2/setHeader(Ljava/lang/String;Ljava/lang/String;)Ö
+Ç
+f
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.javae e(D
+
+%10int"__id*
+""ÍÁ
+g
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.javae e(à
+%11void"Fjavax.servlet.http.HttpServletResponse#sendError(ILjava/lang/String;)V*4
+2
+response&javax.servlet.http.HttpServletResponse*
+
+
+%10int*CA
+?JSPs only permit GET, POST or HEAD. Jasper also permits OPTIONS2sendError(ILjava/lang/String;)"p
+f
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.javaf f(
+""*Î
+42f
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.javacJ c(PÚÔ
+f
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.javacJ c(e
+%8boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+HEAD*"
+ 
+_jspx_methodjava.lang.String2equals(Ljava/lang/Object;)*
+40
+41*–
+20S
+JD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/head.jsp (ñÓÎ
+U
+JD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/head.jspq (ì
+%32void")java.io.Writer#write(Ljava/lang/String;)V*$
+"
+outjavax.servlet.jsp.JspWriter*
+
+%31java.lang.Object2write(Ljava/lang/String;)*
+19*Î
+43f
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.javac* c(0ÚÔ
+f
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.javac* c(E
+%7boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+POST*"
+ 
+_jspx_methodjava.lang.String2equals(Ljava/lang/Object;)*
+40
+42*Í
+44f
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.javac c(ÒÓ
+f
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.javac c(%
+%6boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+GET*"
+ 
+_jspx_methodjava.lang.String2equals(Ljava/lang/Object;)*
+40
+43*œ
+22S
+JD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/head.jsp (ñÌÍ
+T
+JD:/Workfolder/KnowledgeLibrary/src/main/webapp/WEB-INF/jsp/common/head.jspO (q
+%30void")java.io.Writer#write(Ljava/lang/String;)V*$
+"
+outjavax.servlet.jsp.JspWriter*
+
+%29java.lang.Object2write(Ljava/lang/String;)*
+20*¡
+45f
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.java` `(‡›
+f
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.java` `(>
+
+%5void"Wjavax.servlet.http.HttpServletResponse#setHeader(Ljava/lang/String;Ljava/lang/String;)V*4
+2
+response&javax.servlet.http.HttpServletResponse*	
+Allow*
+GET, HEAD, POST, OPTIONS2/setHeader(Ljava/lang/String;Ljava/lang/String;)"p
+f
+\D:\Workfolder\KnowledgeLibrary\target\sonar\jsp\org\apache\jsp\WEB_002dINF\jsp\test_jsp.javaa a(
+"":
+%jsp_context:0
+request%javax.servlet.http.HttpServletRequest:2
+response&javax.servlet.http.HttpServletResponseB+)
+'org.apache.jsp.WEB_002dINF.jsp.test_jsp

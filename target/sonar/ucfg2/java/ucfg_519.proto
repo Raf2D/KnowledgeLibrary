@@ -1,0 +1,77 @@
+
+lcom.lib.web.user.main.TestController#sub(Lorg/springframework/ui/Model;Ljava/lang/String;)Ljava/lang/String;`
+VD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/TestController.java% %("startingBlock*ÿ
+startingBlock`
+VD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/TestController.java% %(*Î
+Ë
+`
+VD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/TestController.java$ $(%
+%5"
+__annotate*:8
+6org.springframework.web.bind.annotation.RequestMapping*
+
+strjava.lang.String”
+‘
+`
+VD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/TestController.java%& %()
+strjava.lang.String"__annotation*
+
+%5ž›
+`
+VD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/TestController.java% %(%
+modelorg.springframework.ui.Model"java.lang.Object*
+1*»
+1`
+VD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/TestController.java& &(à
+Ý
+`
+VD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/TestController.java& &( "
+%0org.springframework.ui.Model"__mapSet*'
+%
+modelorg.springframework.ui.Model*
+str*
+
+strjava.lang.StringÍ
+Ê
+`
+VD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/TestController.java' '(!(
+%1"com.lib.service.user.LuceneService"__id*6*4&
+$com.lib.web.user.main.TestController"
+
+lserviceáÞ
+`
+VD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/TestController.java' '(7
+%2java.util.List"ccom.lib.service.user.LuceneService#getParagraph(Ljava/lang/String;Ljava/lang/Long;)Ljava/util/List;**
+(
+%1"com.lib.service.user.LuceneService*
+
+strjava.lang.String*
+""20getParagraph(Ljava/lang/String;Ljava/lang/Long;)›
+˜
+`
+VD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/TestController.java' '(8
+listjava.util.List"__id*
+
+%2java.util.Listà
+Ý
+`
+VD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/TestController.java( ((""
+%3org.springframework.ui.Model"__mapSet*'
+%
+modelorg.springframework.ui.Model*
+list*
+
+listjava.util.ListÍ
+Ê
+`
+VD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/TestController.java+	 +(
+%4"template!test*("&
+$com.lib.web.user.main.TestController*'
+%
+modelorg.springframework.ui.Model"l
+`
+VD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/TestController.java+ +(
+test:%
+modelorg.springframework.ui.Model:
+strjava.lang.StringB(&
+$com.lib.web.user.main.TestController

@@ -1,0 +1,41 @@
+
+kcom.lib.web.user.main.LoginAndRegisterController#register(Lorg/springframework/ui/Model;)Ljava/lang/String;l
+bD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/LoginAndRegisterController.javaN N("startingBlock*¯
+startingBlockl
+bD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/LoginAndRegisterController.javaN N($ª§
+l
+bD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/LoginAndRegisterController.javaN N(#%
+modelorg.springframework.ui.Model"java.lang.Object*
+1*¡
+1l
+bD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/LoginAndRegisterController.javaO O(—”
+l
+bD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/LoginAndRegisterController.javaO! O(%
+%0java.util.Date"java.util.Date©
+¦
+l
+bD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/LoginAndRegisterController.javaO O('
+%1"java.util.Date#<init>()V*
+
+%0java.util.Dateê
+ç
+l
+bD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/LoginAndRegisterController.javaO O(("
+%2org.springframework.ui.Model"__mapSet*'
+%
+modelorg.springframework.ui.Model*
+date*
+
+%0java.util.Dateò
+ï
+l
+bD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/LoginAndRegisterController.javaP	 P(
+%3"template!register/register*4"2
+0com.lib.web.user.main.LoginAndRegisterController*'
+%
+modelorg.springframework.ui.Model"…
+l
+bD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/LoginAndRegisterController.javaP P(
+register/register:%
+modelorg.springframework.ui.ModelB42
+0com.lib.web.user.main.LoginAndRegisterController

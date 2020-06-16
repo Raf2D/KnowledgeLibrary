@@ -1,0 +1,23 @@
+
+ecom.lib.web.user.main.FileManagerController#newfile(Lorg/springframework/ui/Model;)Ljava/lang/String;g
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/FileManagerController.javaK K("startingBlock*¥
+startingBlockg
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/FileManagerController.javaK K(#¥¢
+g
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/FileManagerController.javaK K("%
+modelorg.springframework.ui.Model"java.lang.Object*
+1*Ï
+1g
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/FileManagerController.javaM	 M(ã
+à
+g
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/FileManagerController.javaM	 M(
+%0"template!file/newfile*/"-
++com.lib.web.user.main.FileManagerController*'
+%
+modelorg.springframework.ui.Model"{
+g
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/FileManagerController.javaM M(
+file/newfile:%
+modelorg.springframework.ui.ModelB/-
++com.lib.web.user.main.FileManagerController

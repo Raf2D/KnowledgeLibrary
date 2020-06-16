@@ -1,0 +1,131 @@
+
+7com.lib.entity.MessageInfo#toString()Ljava/lang/String;V
+LD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/MessageInfo.java= =("1*¹
+1V
+LD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/MessageInfo.java>	 >(¢
+Ÿ
+V
+LD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/MessageInfo.java>! >(&
+%0java.lang.Long"__id*)*'
+com.lib.entity.MessageInfo"
+msgId®
+«
+V
+LD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/MessageInfo.java>	 >(&
+%1java.lang.String"__concat*
+MessageInfo [msgId=*
+
+%0java.lang.Long¨
+¥
+V
+LD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/MessageInfo.java>	 >(6
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+, msgTitle=§
+¤
+V
+LD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/MessageInfo.java>9 >(A
+%3java.lang.String"__id*,**
+com.lib.entity.MessageInfo"
+
+msgTitle±
+®
+V
+LD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/MessageInfo.java>	 >(A
+%4java.lang.String"__concat*
+
+%2java.lang.String*
+
+%3java.lang.Stringª
+§
+V
+LD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/MessageInfo.java>	 >(S
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+, msgContent=©
+¦
+V
+LD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/MessageInfo.java>V >(`
+%6java.lang.String"__id*.*,
+com.lib.entity.MessageInfo"
+
+msgContent±
+®
+V
+LD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/MessageInfo.java>	 >(`
+%7java.lang.String"__concat*
+
+%5java.lang.String*
+
+%6java.lang.String¦
+£
+V
+LD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/MessageInfo.java>	 >(n
+%8java.lang.String"__concat*
+
+%7java.lang.String*
+	, userId=£
+ 
+V
+LD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/MessageInfo.java? ?(
+%9java.lang.Long"__id***(
+com.lib.entity.MessageInfo"
+userId°
+­
+V
+LD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/MessageInfo.java>	 ?(
+%10java.lang.String"__concat*
+
+%8java.lang.String*
+
+%9java.lang.Long¨
+¥
+V
+LD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/MessageInfo.java>	 ?(
+%11java.lang.String"__concat*
+
+%10java.lang.String*
+	, isRead=¡
+ž
+V
+LD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/MessageInfo.java>	 ?(#
+%12java.lang.String"__concat*
+
+%11java.lang.String*
+""©
+¦
+V
+LD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/MessageInfo.java>	 ?(2
+%13java.lang.String"__concat*
+
+%12java.lang.String*
+
+, msgTime=¥
+¢
+V
+LD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/MessageInfo.java?5 ?(<
+%14java.util.Date"__id*+*)
+com.lib.entity.MessageInfo"	
+msgTime²
+¯
+V
+LD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/MessageInfo.java>	 ?(<
+%15java.lang.String"__concat*
+
+%13java.lang.String*
+
+%14java.util.Date 
+
+V
+LD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/MessageInfo.java>	 ?(B
+%16java.lang.String"__concat*
+
+%15java.lang.String*
+]"s
+V
+LD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/MessageInfo.java> ?(C
+
+%16java.lang.StringB
+com.lib.entity.MessageInfo

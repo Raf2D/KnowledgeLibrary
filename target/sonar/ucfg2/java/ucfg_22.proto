@@ -1,0 +1,136 @@
+
+9com.lib.dto.ClassesClickInfo#toString()Ljava/lang/String;X
+ND:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/ClassesClickInfo.java@ @("1*Ò
+1X
+ND:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/ClassesClickInfo.javaA	 A(%¨
+¥
+X
+ND:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/ClassesClickInfo.javaA( A(/
+%0java.lang.Long"__id*-*+
+com.lib.dto.ClassesClickInfo"	
+classId·
+´
+X
+ND:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/ClassesClickInfo.javaA	 A(/
+%1java.lang.String"__concat*
+ClassesClickInfo [classId=*
+
+%0java.lang.Long«
+¨
+X
+ND:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/ClassesClickInfo.javaA	 A(@
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+, className=¬
+©
+X
+ND:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/ClassesClickInfo.javaAC A(L
+%3java.lang.String"__id*/*-
+com.lib.dto.ClassesClickInfo"
+	className³
+°
+X
+ND:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/ClassesClickInfo.javaA	 A(L
+%4java.lang.String"__concat*
+
+%2java.lang.String*
+
+%3java.lang.String±
+®
+X
+ND:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/ClassesClickInfo.javaA	 A(c
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+, classClickTimes=°
+­
+X
+ND:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/ClassesClickInfo.javaB B(
+%6java.lang.Long"__id*5*3
+com.lib.dto.ClassesClickInfo"
+classClickTimes±
+®
+X
+ND:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/ClassesClickInfo.javaA	 B(
+%7java.lang.String"__concat*
+
+%5java.lang.String*
+
+%6java.lang.Long±
+®
+X
+ND:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/ClassesClickInfo.javaA	 B(,
+%8java.lang.String"__concat*
+
+%7java.lang.String*
+, uploadFileTimes=°
+­
+X
+ND:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/ClassesClickInfo.javaB/ B(>
+%9java.lang.Long"__id*5*3
+com.lib.dto.ClassesClickInfo"
+uploadFileTimes²
+¯
+X
+ND:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/ClassesClickInfo.javaA	 B(>
+%10java.lang.String"__concat*
+
+%8java.lang.String*
+
+%9java.lang.Long±
+®
+X
+ND:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/ClassesClickInfo.javaA	 B(S
+%11java.lang.String"__concat*
+
+%10java.lang.String*
+, forkFileTimes=¯
+¬
+X
+ND:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/ClassesClickInfo.javaBV B(c
+%12java.lang.Long"__id*3*1
+com.lib.dto.ClassesClickInfo"
+forkFileTimes´
+±
+X
+ND:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/ClassesClickInfo.javaA	 B(c
+%13java.lang.String"__concat*
+
+%11java.lang.String*
+
+%12java.lang.Long©
+¦
+X
+ND:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/ClassesClickInfo.javaA	 C(
+%14java.lang.String"__concat*
+
+%13java.lang.String*
+
+, score=§
+¤
+X
+ND:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/ClassesClickInfo.javaC C(
+%15java.lang.Long"__id*+*)
+com.lib.dto.ClassesClickInfo"
+score´
+±
+X
+ND:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/ClassesClickInfo.javaA	 C(
+%16java.lang.String"__concat*
+
+%14java.lang.String*
+
+%15java.lang.Long¢
+Ÿ
+X
+ND:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/ClassesClickInfo.javaA	 C(
+%17java.lang.String"__concat*
+
+%16java.lang.String*
+]"u
+X
+ND:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/ClassesClickInfo.javaA C(
+
+%17java.lang.StringB 
+com.lib.dto.ClassesClickInfo

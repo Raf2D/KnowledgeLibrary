@@ -1,0 +1,116 @@
+
+4com.lib.entity.ForkInfo#toString()Ljava/lang/String;S
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/ForkInfo.java* *("1*ß
+1S
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/ForkInfo.java+	 +(ù
+ö
+S
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/ForkInfo.java+ +(%
+%0java.lang.Long"__id*'*%
+com.lib.entity.ForkInfo"
+forkId©
+¶
+S
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/ForkInfo.java+	 +(%
+%1java.lang.String"__concat*
+ForkInfo [forkId=*
+
+%0java.lang.Long¢
+ü
+S
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/ForkInfo.java+	 +(2
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+
+, docId=ú
+ô
+S
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/ForkInfo.java+5 +(:
+%3java.lang.Long"__id*&*$
+com.lib.entity.ForkInfo"
+docId¨
+©
+S
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/ForkInfo.java+	 +(:
+%4java.lang.String"__concat*
+
+%2java.lang.String*
+
+%3java.lang.Long£
+†
+S
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/ForkInfo.java+	 +(H
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+	, fileId=ù
+ö
+S
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/ForkInfo.java+K +(Q
+%6java.lang.Long"__id*'*%
+com.lib.entity.ForkInfo"
+fileId¨
+©
+S
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/ForkInfo.java+	 +(Q
+%7java.lang.String"__concat*
+
+%5java.lang.String*
+
+%6java.lang.Long´
+®
+S
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/ForkInfo.java+	 +(g
+%8java.lang.String"__concat*
+
+%7java.lang.String*
+, forkCreateTime=•
+¢
+S
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/ForkInfo.java, ,(
+%9java.util.Date"__id*/*-
+com.lib.entity.ForkInfo"
+forkCreateTime≠
+™
+S
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/ForkInfo.java+	 ,(
+%10java.lang.String"__concat*
+
+%8java.lang.String*
+
+%9java.util.Dateß
+§
+S
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/ForkInfo.java+	 ,($
+%11java.lang.String"__concat*
+
+%10java.lang.String*
+, forkNote=¢
+ü
+S
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/ForkInfo.java,' ,(/
+%12java.lang.String"__id*)*'
+com.lib.entity.ForkInfo"
+
+forkNote±
+Æ
+S
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/ForkInfo.java+	 ,(/
+%13java.lang.String"__concat*
+
+%11java.lang.String*
+
+%12java.lang.Stringù
+ö
+S
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/ForkInfo.java+	 ,(5
+%14java.lang.String"__concat*
+
+%13java.lang.String*
+]"p
+S
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/ForkInfo.java+ ,(6
+
+%14java.lang.StringB
+com.lib.entity.ForkInfo

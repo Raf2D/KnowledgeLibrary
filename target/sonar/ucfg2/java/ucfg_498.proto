@@ -1,0 +1,41 @@
+
+Fcom.lib.service.user.impl.OfficeConvertImpl#isPDF(Ljava/lang/String;)Zg
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/OfficeConvertImpl.java* *("startingBlock*Ÿ
+startingBlockg
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/OfficeConvertImpl.java* *(&∂
+≥
+g
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/OfficeConvertImpl.java) )(
+
+%2"
+__annotate*
+java.lang.Override*
+
+fileNamejava.lang.String†
+ù
+g
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/OfficeConvertImpl.java* *(%
+fileNamejava.lang.String"__annotation*
+
+%2*
+1*◊
+1g
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/OfficeConvertImpl.java+	 +(ä
+á
+g
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/OfficeConvertImpl.java+ +(4
+%0java.lang.Object"Hcom.lib.utils.FileUtil#getFileName(Ljava/lang/String;)Ljava/lang/Object;*"
+com.lib.utils.FileUtil*
+
+fileNamejava.lang.StringËÂ
+g
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/OfficeConvertImpl.java+	 +(5
+%1boolean",java.lang.String#equals(Ljava/lang/Object;)Z*
+pdf*
+
+%0java.lang.Object2equals(Ljava/lang/Object;)"q
+g
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/OfficeConvertImpl.java+ +(6
+"":
+fileNamejava.lang.StringB/-
++com.lib.service.user.impl.OfficeConvertImpl

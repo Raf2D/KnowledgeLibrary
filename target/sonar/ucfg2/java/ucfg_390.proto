@@ -1,0 +1,37 @@
+
+Mcom.lib.utils.Tfidf#Tfidf(Ljava/util/List;Ljava/util/List;)Ljava/lang/Double;O
+ED:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/Tfidf.java ("1*ç
+1O
+ED:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/Tfidf.java (ÑÅ
+O
+ED:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/Tfidf.java (
+%0com.lib.utils.Tfidf"com.lib.utils.Tfidfñ
+ì
+O
+ED:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/Tfidf.java (
+%1"com.lib.utils.Tfidf#<init>()V*
+
+%0com.lib.utils.Tfidfï
+í
+O
+ED:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/Tfidf.java (
+tfidfcom.lib.utils.Tfidf"__id*
+
+%0com.lib.utils.Tfidfë
+é
+O
+ED:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/Tfidf.java	 (!
+%2java.lang.Double"Mcom.lib.utils.Tfidf#Count(Ljava/util/List;Ljava/util/List;)Ljava/lang/Double;*
+
+tfidfcom.lib.utils.Tfidf*
+
+list1java.util.List*
+
+list2java.util.List"k
+O
+ED:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/Tfidf.java ("
+
+%2java.lang.Double:
+list1java.util.List:
+list2java.util.ListB"
+com.lib.utils.Tfidf

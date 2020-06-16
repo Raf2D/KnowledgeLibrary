@@ -1,0 +1,94 @@
+
+8com.lib.entity.RelationInfo#toString()Ljava/lang/String;W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/RelationInfo.java2 2("1*°
+1W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/RelationInfo.java3	 3(,±
+®
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/RelationInfo.java3/ 3(A
+%0java.util.Date"__id*7*5
+com.lib.entity.RelationInfo"
+relationCreateTime½
+º
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/RelationInfo.java3	 3(A
+%1java.lang.String"__concat*%#
+!RelationInfo [relationCreateTime=*
+
+%0java.util.Date«
+¨
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/RelationInfo.java3	 3(S
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+, mainFileId=©
+¦
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/RelationInfo.java3V 3(`
+%3java.lang.Long"__id*/*-
+com.lib.entity.RelationInfo"
+
+mainFileId°
+­
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/RelationInfo.java3	 3(`
+%4java.lang.String"__concat*
+
+%2java.lang.String*
+
+%3java.lang.Long¯
+¬
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/RelationInfo.java3	 4(
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+, relationFileId=­
+ª
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/RelationInfo.java4 4(*
+%6java.lang.Long"__id*3*1
+com.lib.entity.RelationInfo"
+relationFileId°
+­
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/RelationInfo.java3	 4(*
+%7java.lang.String"__concat*
+
+%5java.lang.String*
+
+%6java.lang.Long­
+ª
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/RelationInfo.java3	 4(>
+%8java.lang.String"__concat*
+
+%7java.lang.String*
+, relationFile=´
+±
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/RelationInfo.java4A 4(M
+%9com.lib.entity.FileInfo"__id*1*/
+com.lib.entity.RelationInfo"
+relationFileº
+·
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/RelationInfo.java3	 4(M
+%10java.lang.String"__concat*
+
+%8java.lang.String*
+
+%9com.lib.entity.FileInfo¡
+ž
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/RelationInfo.java3	 4(S
+%11java.lang.String"__concat*
+
+%10java.lang.String*
+]"t
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/RelationInfo.java3 4(T
+
+%11java.lang.StringB
+com.lib.entity.RelationInfo

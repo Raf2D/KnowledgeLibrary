@@ -1,0 +1,94 @@
+
+8com.lib.entity.UserRegister#toString()Ljava/lang/String;W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/UserRegister.java: :("1*†
+1W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/UserRegister.java;	 ;($©
+¦
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/UserRegister.java;' ;(1
+%0java.lang.Long"__id*/*-
+com.lib.entity.UserRegister"
+
+registerIdµ
+²
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/UserRegister.java;	 ;(1
+%1java.lang.String"__concat*
+UserRegister [registerId=*
+
+%0java.lang.Long§
+¤
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/UserRegister.java;	 ;(?
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+	, userId=¥
+¢
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/UserRegister.java;B ;(H
+%3java.lang.Long"__id*+*)
+com.lib.entity.UserRegister"
+userId°
+­
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/UserRegister.java;	 ;(H
+%4java.lang.String"__concat*
+
+%2java.lang.String*
+
+%3java.lang.Long­
+ª
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/UserRegister.java;	 ;(\
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+, validateCode=­
+ª
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/UserRegister.java;_ ;(k
+%6java.lang.String"__id*1*/
+com.lib.entity.UserRegister"
+validateCode²
+¯
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/UserRegister.java;	 ;(k
+%7java.lang.String"__concat*
+
+%5java.lang.String*
+
+%6java.lang.String­
+ª
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/UserRegister.java;	 <(
+%8java.lang.String"__concat*
+
+%7java.lang.String*
+, registerTime=«
+¨
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/UserRegister.java< <(&
+%9java.util.Date"__id*1*/
+com.lib.entity.UserRegister"
+registerTime±
+®
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/UserRegister.java;	 <(&
+%10java.lang.String"__concat*
+
+%8java.lang.String*
+
+%9java.util.Date¡
+ž
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/UserRegister.java;	 <(,
+%11java.lang.String"__concat*
+
+%10java.lang.String*
+]"t
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/UserRegister.java; <(-
+
+%11java.lang.StringB
+com.lib.entity.UserRegister

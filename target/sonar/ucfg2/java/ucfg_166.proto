@@ -1,0 +1,16 @@
+
+?com.lib.entity.UserRegister#getValidateCode()Ljava/lang/String;W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/UserRegister.java) )("1*Å
+1W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/UserRegister.java*	 *(≠
+™
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/UserRegister.java*	 *(
+%0java.lang.String"__id*1*/
+com.lib.entity.UserRegister"
+validateCode"s
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/UserRegister.java* *(
+
+%0java.lang.StringB
+com.lib.entity.UserRegister

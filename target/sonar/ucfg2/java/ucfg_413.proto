@@ -1,0 +1,142 @@
+
+wcom.lib.web.admin.main.UserManageController#changeUserType(Ljava/lang/Long;Ljava/lang/Integer;)Lcom/lib/dto/JsonResult;i
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/UserManageController.javaÑ Ñ(!"startingBlock*Å
+startingBlocki
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/UserManageController.javaÑ! Ñ(?◊
+‘
+i
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/UserManageController.javaÇ Ç(
+%11"
+__annotate*86
+4org.springframework.web.bind.annotation.ResponseBody*
+
+userIdjava.lang.Longü
+ú
+i
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/UserManageController.javaÑ' Ñ(-
+userIdjava.lang.Long"__annotation*
+
+%11‹
+Ÿ
+i
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/UserManageController.javaÇ Ç(
+%12"
+__annotate*86
+4org.springframework.web.bind.annotation.ResponseBody*
+
+userTypejava.lang.Integer§
+°
+i
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/UserManageController.javaÑ6 Ñ(>
+userTypejava.lang.Integer"__annotation*
+
+%12*
+9*¥
+4i
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/UserManageController.javaä ä(/∫
+∑
+i
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/UserManageController.javaä ä(/$
+
+jsonResultcom.lib.dto.JsonResult"__id*
+
+%5com.lib.dto.JsonResultÅ˛
+i
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/UserManageController.javaã ã( 
+
+%7void"3com.lib.dto.JsonResult#setData(Ljava/lang/Object;)V*&
+$
+
+jsonResultcom.lib.dto.JsonResult*	
+success2setData(Ljava/lang/Object;)*
+1*˚
+5i
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/UserManageController.javaä ä(#§°
+i
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/UserManageController.javaä ä(
+%5com.lib.dto.JsonResult"com.lib.dto.JsonResultﬁ
+€
+i
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/UserManageController.javaä ä(/
+%6"3com.lib.dto.JsonResult#<init>(ZLjava/lang/String;)V*
+
+%5com.lib.dto.JsonResult*
+""*	
+success*
+4*ñ
+6i
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/UserManageController.javaâ â(ﬁ
+€
+i
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/UserManageController.javaâ â(&
+%3 com.lib.service.user.UserService"__id*@*>-
++com.lib.web.admin.main.UserManageController"
+userServiceøº
+i
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/UserManageController.javaâ â($
+
+%4void"Kcom.lib.service.user.UserService#updateUserType(Lcom/lib/entity/UserInfo;)V*(
+&
+%3 com.lib.service.user.UserService*!
+
+usercom.lib.entity.UserInfo2)updateUserType(Lcom/lib/entity/UserInfo;)*
+5* 
+7i
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/UserManageController.javaá á(6∂
+≥
+i
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/UserManageController.javaá á(6
+usercom.lib.entity.UserInfo"__id*
+
+%1com.lib.entity.UserInfoõò
+i
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/UserManageController.javaà à(
+
+%2void"9com.lib.entity.UserInfo#setUserType(Ljava/lang/Integer;)V*!
+
+usercom.lib.entity.UserInfo*
+
+userTypejava.lang.Integer2 setUserType(Ljava/lang/Integer;)*
+6*®
+8i
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/UserManageController.javaá á(ﬁ
+€
+i
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/UserManageController.javaá á(&
+%0 com.lib.service.user.UserService"__id*@*>-
++com.lib.web.admin.main.UserManageController"
+userService—Œ
+i
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/UserManageController.javaá á(5
+%1com.lib.entity.UserInfo"Zcom.lib.service.user.UserService#getUserAllInfo(Ljava/lang/Long;)Lcom/lib/entity/UserInfo;*(
+&
+%0 com.lib.service.user.UserService*
+
+userIdjava.lang.Long2 getUserAllInfo(Ljava/lang/Long;)*
+7*ò
+9i
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/UserManageController.javaÖ Ö(¢
+ü
+i
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/UserManageController.javaÖ Ö($
+
+jsonResultcom.lib.dto.JsonResult"__id*
+""*
+8*⁄
+1i
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/UserManageController.javaè	 è(”
+–
+i
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/UserManageController.javaè è(
+%10"4org.springframework.web.bind.annotation.ResponseBody*&
+$
+
+jsonResultcom.lib.dto.JsonResult"ì
+i
+]D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/admin/main/UserManageController.javaè è(&
+$
+
+jsonResultcom.lib.dto.JsonResult:
+userIdjava.lang.Long:
+userTypejava.lang.IntegerB/-
++com.lib.web.admin.main.UserManageController

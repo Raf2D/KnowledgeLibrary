@@ -1,0 +1,80 @@
+
+ùcom.lib.utils.LuceneSearchUtil#getLastScoreDoc(IILorg/apache/lucene/search/Query;Lorg/apache/lucene/search/IndexSearcher;)Lorg/apache/lucene/search/ScoreDoc;\
+PD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/LuceneSearchUtil.java¢ ¢(("startingBlock*…
+2\
+PD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/LuceneSearchUtil.java• •("f
+\
+PD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/LuceneSearchUtil.java• •(
+""*”
+startingBlock\
+PD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/LuceneSearchUtil.java¢( £(#æ
+ª
+\
+PD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/LuceneSearchUtil.java° °(
+%3"
+__annotate*
+java.lang.SuppressWarnings*)
+'
+queryorg.apache.lucene.search.Query†
+ù
+\
+PD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/LuceneSearchUtil.java¢J ¢(O'
+queryorg.apache.lucene.search.Query"__annotation*
+
+%3…
+∆
+\
+PD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/LuceneSearchUtil.java° °(
+%4"
+__annotate*
+java.lang.SuppressWarnings*4
+2
+searcher&org.apache.lucene.search.IndexSearcher´
+®
+\
+PD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/LuceneSearchUtil.java£ £("2
+searcher&org.apache.lucene.search.IndexSearcher"__annotation*
+
+%4*
+2
+1*€	
+1\
+PD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/LuceneSearchUtil.javaß ß(ëé
+\
+PD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/LuceneSearchUtil.java® ®(1&
+%0 org.apache.lucene.search.TopDocs"rorg.apache.lucene.search.IndexSearcher#search(Lorg/apache/lucene/search/Query;I)Lorg/apache/lucene/search/TopDocs;*4
+2
+searcher&org.apache.lucene.search.IndexSearcher*)
+'
+queryorg.apache.lucene.search.Query*
+""2)search(Lorg/apache/lucene/search/Query;I)∫
+∑
+\
+PD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/LuceneSearchUtil.java® ®(2'
+tds org.apache.lucene.search.TopDocs"__id*(
+&
+%0 org.apache.lucene.search.TopDocsÃ
+…
+\
+PD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/LuceneSearchUtil.java© ©()
+%1#org.apache.lucene.search.ScoreDoc[]"__id*8*6
+'
+tds org.apache.lucene.search.TopDocs"
+	scoreDocsÀ
+»
+\
+PD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/LuceneSearchUtil.java© ©(%'
+%2!org.apache.lucene.search.ScoreDoc"
+__arrayGet*+
+)
+%1#org.apache.lucene.search.ScoreDoc[]*
+"""â
+\
+PD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/LuceneSearchUtil.java© ©(&)
+'
+%2!org.apache.lucene.search.ScoreDoc:
+"":
+"":'
+queryorg.apache.lucene.search.Query:2
+searcher&org.apache.lucene.search.IndexSearcherB"" 
+com.lib.utils.LuceneSearchUtil

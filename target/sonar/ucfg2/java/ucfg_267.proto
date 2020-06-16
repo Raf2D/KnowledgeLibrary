@@ -1,0 +1,19 @@
+
+Acom.lib.utils.FileUtil#readText(Ljava/io/File;)Ljava/lang/String;T
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/FileUtil.java¹ ¹("1*Ó
+1T
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/FileUtil.javaº	 º(…
+‚
+T
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/FileUtil.javaº	 º( 
+%0java.lang.String"Scom.lib.utils.FileUtil#readText(Ljava/io/File;Ljava/lang/String;)Ljava/lang/String;*"
+com.lib.utils.FileUtil*
+
+filejava.io.File*	
+UTF-8"p
+T
+HD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/FileUtil.javaº º(!
+
+%0java.lang.String:
+filejava.io.FileB"
+com.lib.utils.FileUtil

@@ -1,0 +1,16 @@
+
+Hcom.lib.entity.Classification#getClassificationBrief()Ljava/lang/String;Y
+OD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/Classification.java3 3(%"1*ê
+1Y
+OD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/Classification.java4	 4(∏
+µ
+Y
+OD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/Classification.java4	 4(
+%0java.lang.String"__id*:*8
+com.lib.entity.Classification"
+classificationBrief"u
+Y
+OD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/Classification.java4 4(
+
+%0java.lang.StringB!
+com.lib.entity.Classification

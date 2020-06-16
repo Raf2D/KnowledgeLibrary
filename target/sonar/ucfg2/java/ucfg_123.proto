@@ -1,0 +1,42 @@
+
+_com.lib.service.user.impl.MessageServiceImpl#countMsgByUserId(Ljava/lang/Long;)Ljava/lang/Long;h
+^D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/MessageServiceImpl.java# #("startingBlock*‘
+startingBlockh
+^D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/MessageServiceImpl.java# #(*≥
+∞
+h
+^D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/MessageServiceImpl.java" "(
+
+%2"
+__annotate*
+java.lang.Override*
+
+userIdjava.lang.Longù
+ö
+h
+^D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/MessageServiceImpl.java## #()
+userIdjava.lang.Long"__annotation*
+
+%2*
+1*Å
+1h
+^D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/MessageServiceImpl.java$	 $(”
+–
+h
+^D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/MessageServiceImpl.java$	 $( 
+%0com.lib.dao.MessageInfoDao"__id*<*:.
+,com.lib.service.user.impl.MessageServiceImpl"
+msgDao∂≥
+h
+^D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/MessageServiceImpl.java$	 $((
+%1java.lang.Long"Mcom.lib.dao.MessageInfoDao#countMsgByUserId(Ljava/lang/Long;)Ljava/lang/Long;*"
+ 
+%0com.lib.dao.MessageInfoDao*
+
+userIdjava.lang.Long2"countMsgByUserId(Ljava/lang/Long;)"Ç
+h
+^D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/MessageServiceImpl.java$ $()
+
+%1java.lang.Long:
+userIdjava.lang.LongB0.
+,com.lib.service.user.impl.MessageServiceImpl

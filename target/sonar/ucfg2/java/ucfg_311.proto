@@ -1,0 +1,38 @@
+
+com.lib.web.user.main.LoginAndRegisterController#login(Lorg/springframework/ui/Model;Ljavax/servlet/http/HttpServletRequest;)Ljava/lang/String;l
+bD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/LoginAndRegisterController.javaB B("startingBlock*á
+startingBlockl
+bD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/LoginAndRegisterController.javaB B(=ó
+ð
+l
+bD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/LoginAndRegisterController.javaA A(>
+%1"
+__annotate*:8
+6org.springframework.web.bind.annotation.RequestMapping*2
+0
+request%javax.servlet.http.HttpServletRequest¹
+¶
+l
+bD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/LoginAndRegisterController.javaB5 B(<0
+request%javax.servlet.http.HttpServletRequest"__annotation*
+
+%1ª§
+l
+bD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/LoginAndRegisterController.javaB B(!%
+modelorg.springframework.ui.Model"java.lang.Object*
+1*Õ
+1l
+bD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/LoginAndRegisterController.javaD	 D(æ
+ã
+l
+bD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/LoginAndRegisterController.javaD	 D(
+%0"template!login*4"2
+0com.lib.web.user.main.LoginAndRegisterController*'
+%
+modelorg.springframework.ui.Model"y
+l
+bD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/LoginAndRegisterController.javaD D(	
+login:%
+modelorg.springframework.ui.Model:0
+request%javax.servlet.http.HttpServletRequestB42
+0com.lib.web.user.main.LoginAndRegisterController

@@ -1,0 +1,111 @@
+
+Écom.lib.web.user.main.TestController#login(Lorg/springframework/ui/Model;Ljavax/servlet/http/HttpServletRequest;)Ljava/lang/String;`
+VD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/TestController.java/ /("startingBlock*´
+startingBlock`
+VD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/TestController.java/ /(8‰
+·
+`
+VD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/TestController.java. .(=
+%11"
+__annotate*:8
+6org.springframework.web.bind.annotation.RequestMapping*.
+,
+req%javax.servlet.http.HttpServletRequest™
+ß
+`
+VD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/TestController.java/4 /(7,
+req%javax.servlet.http.HttpServletRequest"__annotation*
+
+%11ûõ
+`
+VD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/TestController.java/ /(!%
+modelorg.springframework.ui.Model"java.lang.Object*
+1*É
+1`
+VD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/TestController.java0 0(ìê
+`
+VD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/TestController.java0 0("
+%0java.lang.StringBuffer"Mjavax.servlet.http.HttpServletRequest#getRequestURL()Ljava/lang/StringBuffer;*.
+,
+req%javax.servlet.http.HttpServletRequest2getRequestURL()ﬁ€
+`
+VD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/TestController.java0 0(-
+%1java.lang.String"3java.lang.StringBuffer#toString()Ljava/lang/String;*
+
+%0java.lang.StringBuffer2
+toString()û
+õ
+`
+VD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/TestController.java0 0(.
+urljava.lang.String"__id*
+
+%1java.lang.StringáÑ
+`
+VD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/TestController.java1 1(
+%2java.net.URL"java.net.URL∆
+√
+`
+VD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/TestController.java1
+ 1(
+%3"(java.net.URL#<init>(Ljava/lang/String;)V*
+
+%2java.net.URL*
+
+urljava.lang.Stringî
+ë
+`
+VD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/TestController.java1 1(
+ujava.net.URL"__id*
+
+%2java.net.URLé
+ã
+`
+VD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/TestController.java2 2(
+%4java.io.PrintStream"__id*
+""«ƒ
+`
+VD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/TestController.java2 2( 
+%5java.lang.String"(java.net.URL#getHost()Ljava/lang/String;*
+
+ujava.net.URL2	getHost()®
+•
+`
+VD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/TestController.java2 2($
+%6java.lang.String"__concat*
+
+%5java.lang.String*
+:©¶
+`
+VD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/TestController.java2% 2(0	
+%7int"java.net.URL#getPort()I*
+
+ujava.net.URL2	getPort()Æ
+´
+`
+VD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/TestController.java2 2(0
+%8java.lang.String"__concat*
+
+%6java.lang.String*
+	
+%7int˜Ù
+`
+VD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/TestController.java2 2(1
+
+%9void"0java.io.PrintStream#println(Ljava/lang/String;)V*
+
+%4java.io.PrintStream*
+
+%8java.lang.String2println(Ljava/lang/String;)Œ
+À
+`
+VD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/TestController.java3	 3(
+%10"template!test*("&
+$com.lib.web.user.main.TestController*'
+%
+modelorg.springframework.ui.Model"l
+`
+VD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/TestController.java3 3(
+test:%
+modelorg.springframework.ui.Model:,
+req%javax.servlet.http.HttpServletRequestB(&
+$com.lib.web.user.main.TestController

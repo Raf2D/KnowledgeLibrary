@@ -1,0 +1,38 @@
+
+Çcom.lib.web.user.main.LoginAndRegisterController#toSuccessPage(Lorg/springframework/ui/Model;Ljava/lang/String;)Ljava/lang/String;n
+bD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/LoginAndRegisterController.java∑ ∑("startingBlock*π
+startingBlockn
+bD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/LoginAndRegisterController.java∑ ∑(5›
+⁄
+n
+bD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/LoginAndRegisterController.java∂ ∂(I
+%1"
+__annotate*:8
+6org.springframework.web.bind.annotation.RequestMapping*
+
+hostjava.lang.String£
+†
+n
+bD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/LoginAndRegisterController.java∑0 ∑(4
+hostjava.lang.String"__annotation*
+
+%1¨©
+n
+bD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/LoginAndRegisterController.java∑ ∑()%
+modelorg.springframework.ui.Model"java.lang.Object*
+1*Ñ
+1n
+bD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/LoginAndRegisterController.java∏	 ∏($¸
+˘
+n
+bD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/LoginAndRegisterController.java∏	 ∏($
+%0""template!register/register-success*4"2
+0com.lib.web.user.main.LoginAndRegisterController*'
+%
+modelorg.springframework.ui.Model"è
+n
+bD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/web/user/main/LoginAndRegisterController.java∏ ∏(%
+register/register-success:%
+modelorg.springframework.ui.Model:
+hostjava.lang.StringB42
+0com.lib.web.user.main.LoginAndRegisterController

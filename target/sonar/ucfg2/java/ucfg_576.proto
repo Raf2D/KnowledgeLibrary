@@ -1,0 +1,41 @@
+
+Pcom.lib.service.user.impl.ForkInfoServiceImpl#modify(Lcom/lib/entity/ForkInfo;)Ii
+_D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/ForkInfoServiceImpl.java_ _("startingBlock*Ì
+startingBlocki
+_D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/ForkInfoServiceImpl.java_ _(%ø
+º
+i
+_D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/ForkInfoServiceImpl.java^ ^(
+
+%2"
+__annotate*
+java.lang.Override*%
+#
+forkInfocom.lib.entity.ForkInfo©
+¶
+i
+_D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/ForkInfoServiceImpl.java_ _($#
+forkInfocom.lib.entity.ForkInfo"__annotation*
+
+%2*
+1*‡
+1i
+_D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/ForkInfoServiceImpl.javaa	 a(◊
+‘
+i
+_D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/ForkInfoServiceImpl.javaa	 a(
+%0com.lib.dao.ForkInfoDao"__id*B*@/
+-com.lib.service.user.impl.ForkInfoServiceImpl"
+forkInfoDao†ù
+i
+_D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/ForkInfoServiceImpl.javaa	 a(%	
+%1int":com.lib.dao.ForkInfoDao#modify(Lcom/lib/entity/ForkInfo;)I*
+
+%0com.lib.dao.ForkInfoDao*%
+#
+forkInfocom.lib.entity.ForkInfo2!modify(Lcom/lib/entity/ForkInfo;)"s
+i
+_D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/ForkInfoServiceImpl.javaa a(&
+"":#
+forkInfocom.lib.entity.ForkInfoB1/
+-com.lib.service.user.impl.ForkInfoServiceImpl

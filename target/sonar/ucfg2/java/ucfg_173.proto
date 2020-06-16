@@ -1,0 +1,16 @@
+
+3com.lib.entity.FileInfo#getFileId()Ljava/lang/Long;S
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.java( (("1*Á
+1S
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.java)	 )(ù
+ö
+S
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.java)	 )(
+%0java.lang.Long"__id*'*%
+com.lib.entity.FileInfo"
+fileId"m
+S
+ID:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/FileInfo.java) )(
+
+%0java.lang.LongB
+com.lib.entity.FileInfo

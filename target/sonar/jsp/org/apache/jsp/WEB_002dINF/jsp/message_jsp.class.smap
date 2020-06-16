@@ -1,0 +1,23 @@
+SMAP
+message_jsp.java
+JSP
+*S JSP
+*F
++ 0 message.jsp
+WEB-INF/jsp/message.jsp
++ 1 head.jsp
+WEB-INF/jsp/common/head.jsp
+*L
+2,5:127,0
+6:128
+7:129,0
+1#1,5:130,0
+5:131
+5:135
+5:137,2
+6,37:139,0
+42,7:141,0
+7#0,8:142,0
+14:143
+15,19:144,0
+*E

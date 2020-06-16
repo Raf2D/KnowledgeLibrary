@@ -1,0 +1,19 @@
+SMAP
+test_jsp.java
+JSP
+*S JSP
+*F
++ 0 test.jsp
+WEB-INF/jsp/test.jsp
++ 1 head.jsp
+WEB-INF/jsp/common/head.jsp
+*L
+2,6:127,0
+1#1,5:128,0
+5:129
+5:133
+5:135,2
+6,37:137,0
+42,7:139,0
+7#0,19:140,0
+*E

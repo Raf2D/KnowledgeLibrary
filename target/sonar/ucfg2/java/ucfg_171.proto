@@ -1,0 +1,53 @@
+
+Acom.lib.entity.UserRegister#getLastActivateTime()Ljava/util/Date;W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/UserRegister.java? ?($"1*È
+1W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/UserRegister.java@ @(Ä
+Á
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/UserRegister.java@ @(-
+%0java.util.Calendar"4java.util.Calendar#getInstance()Ljava/util/Calendar;*"
+java.util.Calendar˜
+•
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/UserRegister.java@	 @(.
+cljava.util.Calendar"__id*
+
+%0java.util.Calendar«
+¨
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/UserRegister.javaA A( 
+%1java.util.Date"__id*1*/
+com.lib.entity.UserRegister"
+registerTimeæã
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/UserRegister.javaA	 A(!
+
+%2void"-java.util.Calendar#setTime(Ljava/util/Date;)V*
+
+cljava.util.Calendar*
+
+%1java.util.Date2setTime(Ljava/util/Date;)t
+r
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/UserRegister.javaB B(	
+%3int"__id*
+""½º
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/UserRegister.javaB	 B("
+
+%4void"java.util.Calendar#add(II)V*
+
+cljava.util.Calendar*
+	
+%3int*22add(II)ÇÄ
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/UserRegister.javaD D(
+%5java.util.Date",java.util.Calendar#getTime()Ljava/util/Date;*
+
+cljava.util.Calendar2	getTime()"q
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/UserRegister.javaD	 D(
+
+%5java.util.DateB
+com.lib.entity.UserRegister

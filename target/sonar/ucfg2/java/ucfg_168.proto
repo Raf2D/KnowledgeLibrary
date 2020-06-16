@@ -1,0 +1,16 @@
+
+=com.lib.entity.UserRegister#getRegisterTime()Ljava/util/Date;W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/UserRegister.java1 1("1*ý
+1W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/UserRegister.java2	 2(«
+¨
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/UserRegister.java2	 2(
+%0java.util.Date"__id*1*/
+com.lib.entity.UserRegister"
+registerTime"q
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/UserRegister.java2 2(
+
+%0java.util.DateB
+com.lib.entity.UserRegister

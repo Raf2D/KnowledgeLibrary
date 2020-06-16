@@ -1,0 +1,16 @@
+
+?com.lib.entity.RelationInfo#getRelationFileId()Ljava/lang/Long;W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/RelationInfo.java! !("1*ÿ
+1W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/RelationInfo.java"	 "(­
+ª
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/RelationInfo.java"	 "(
+%0java.lang.Long"__id*3*1
+com.lib.entity.RelationInfo"
+relationFileId"q
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/entity/RelationInfo.java" "(
+
+%0java.lang.LongB
+com.lib.entity.RelationInfo

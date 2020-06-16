@@ -1,0 +1,49 @@
+
+ccom.lib.service.user.impl.AdminCountServiceImpl#getCountForkFiles(Ljava/lang/Long;)Ljava/lang/Long;k
+aD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/AdminCountServiceImpl.java1 1("startingBlock*›
+startingBlockk
+aD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/AdminCountServiceImpl.java1 1(+∂
+≥
+k
+aD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/AdminCountServiceImpl.java0 0(
+
+%2"
+__annotate*
+java.lang.Override*
+
+userIdjava.lang.Long†
+ù
+k
+aD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/AdminCountServiceImpl.java1$ 1(*
+userIdjava.lang.Long"__annotation*
+
+%2*
+1*´
+1k
+aD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/AdminCountServiceImpl.java2 2(’
+“
+k
+aD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/AdminCountServiceImpl.java2 2(
+%0com.lib.dao.CountDao"__id*A*?1
+/com.lib.service.user.impl.AdminCountServiceImpl"
+
+countDaoØ¨
+k
+aD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/AdminCountServiceImpl.java2 2(/
+%1java.lang.Long"Hcom.lib.dao.CountDao#getCountForkFiles(Ljava/lang/Long;)Ljava/lang/Long;*
+
+%0com.lib.dao.CountDao*
+
+userIdjava.lang.Long2#getCountForkFiles(Ljava/lang/Long;)•
+¢
+k
+aD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/AdminCountServiceImpl.java2 2(0
+resjava.lang.Long"__id*
+
+%1java.lang.Long"Ü
+k
+aD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/AdminCountServiceImpl.java3 3(
+
+resjava.lang.Long:
+userIdjava.lang.LongB31
+/com.lib.service.user.impl.AdminCountServiceImpl

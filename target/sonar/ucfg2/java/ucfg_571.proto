@@ -1,0 +1,42 @@
+
+[com.lib.service.user.impl.ForkInfoServiceImpl#findByDocId(Ljava/lang/Long;)Ljava/util/List;i
+_D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/ForkInfoServiceImpl.java* *(""startingBlock*’
+startingBlocki
+_D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/ForkInfoServiceImpl.java*" *(.≥
+∞
+i
+_D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/ForkInfoServiceImpl.java) )(
+
+%2"
+__annotate*
+java.lang.Override*
+
+docIdjava.lang.Longù
+ö
+i
+_D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/ForkInfoServiceImpl.java*( *(-
+docIdjava.lang.Long"__annotation*
+
+%2*
+1*˜
+1i
+_D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/ForkInfoServiceImpl.java-	 -(◊
+‘
+i
+_D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/ForkInfoServiceImpl.java-	 -(
+%0com.lib.dao.ForkInfoDao"__id*B*@/
+-com.lib.service.user.impl.ForkInfoServiceImpl"
+forkInfoDao¶£
+i
+_D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/ForkInfoServiceImpl.java-	 -('
+%1java.util.List"Ecom.lib.dao.ForkInfoDao#findByDocId(Ljava/lang/Long;)Ljava/util/List;*
+
+%0com.lib.dao.ForkInfoDao*
+
+docIdjava.lang.Long2findByDocId(Ljava/lang/Long;)"É
+i
+_D:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/service/user/impl/ForkInfoServiceImpl.java- -((
+
+%1java.util.List:
+docIdjava.lang.LongB1/
+-com.lib.service.user.impl.ForkInfoServiceImpl

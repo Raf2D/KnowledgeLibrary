@@ -1,0 +1,16 @@
+
+6com.lib.dto.ActiveUserInfo#getActive()Ljava/lang/Long;V
+LD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/ActiveUserInfo.java5 5("1*ó
+1V
+LD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/ActiveUserInfo.java6	 6(£
+ 
+V
+LD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/ActiveUserInfo.java6	 6(
+%0java.lang.Long"__id***(
+com.lib.dto.ActiveUserInfo"
+active"p
+V
+LD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/dto/ActiveUserInfo.java6 6(
+
+%0java.lang.LongB
+com.lib.dto.ActiveUserInfo

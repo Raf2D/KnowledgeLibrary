@@ -1,0 +1,23 @@
+
+Ocom.lib.utils.ParagraphUtil#toParagraphList(Ljava/lang/String;)Ljava/util/List;W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/ParagraphUtil.java (."1*ó
+1W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/ParagraphUtil.java (º·
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/ParagraphUtil.java (4
+%0char[]" java.lang.String#toCharArray()[C*
+
+contentjava.lang.String2toCharArray()ä
+á
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/ParagraphUtil.java (5
+%1java.util.List"?com.lib.utils.ParagraphUtil#toParagraphList([C)Ljava/util/List;*"
+com.lib.utils.ParagraphUtil*
+
+%0char[]"q
+W
+MD:/Workfolder/KnowledgeLibrary/src/main/java/com/lib/utils/ParagraphUtil.java (6
+
+%1java.util.List:
+contentjava.lang.StringB"
+com.lib.utils.ParagraphUtil
