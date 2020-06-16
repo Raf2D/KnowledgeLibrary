@@ -505,11 +505,7 @@ UE.parse.register('table', function (utils) {
                 fragment.appendChild(trArray[j]);
             }
             var tbody = table.getElementsByTagName("tbody")[0];
-            if(!lastRowIndex){
-                tbody.appendChild(fragment);
-            }else{
-                tbody.insertBefore(fragment,rows[lastRowIndex- range.endRowIndex + range.beginRowIndex - 1])
-            }
+            tbody.insertBefore(fragment,rows[lastRowIndex- range.endRowIndex + range.beginRowIndex - 1]);
         }
         //冒泡排序
         function sort(array, compareFn){
