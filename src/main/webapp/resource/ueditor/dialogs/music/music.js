@@ -125,10 +125,9 @@ function Music() {
             var me = this,
                 newData = [],
                 d = me.pageSize,
-                itembox;
+                itembox = [];
             for (var i = 0; i < data.length; i++) {
                 if ((i + d) % d == 0) {
-                    itembox = [];
                     newData.push(itembox)
                 }
                 itembox.push(data[i]);
